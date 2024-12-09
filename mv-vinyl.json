@@ -137,11 +137,12 @@
 			"artist": "Miles Davis & Joh Coltrane",
 			"year": "1960",
 			"mbid": "78d472d6-322d-4e50-a88c-617946e28d37",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"art": [
-				null,
+				"http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-500.jpg",
 				null
-			]
+			],
+			"thumbnail": "http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-250.jpg"
 		},
 		{
 			"album": "King of the Delta Blues Singers",
