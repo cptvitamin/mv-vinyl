@@ -236,12 +236,13 @@
 			"album": "Mingus Mingus Mingus Mingus",
 			"year": "1964",
 			"mbid": "70d13ec1-e731-3775-b70f-c1a2fb416828",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"art": [
-				null,
+				"http://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/8878798092-500.jpg",
 				null
 			],
-			"mbJson": 0
+			"mbJson": 0,
+			"thumbnail": "http://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/8878798092-250.jpg"
 		},
 		{
 			"album": "12 X 5",
