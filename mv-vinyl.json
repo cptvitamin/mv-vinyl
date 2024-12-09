@@ -57,33 +57,36 @@
 			"artist": "Ahmad Jamal",
 			"year": "1958",
 			"mbid": "5160292d-d90f-4aa2-a6c7-65c477925c19",
-			"mbidJson": 3,
+			"mbidJson": 4,
 			"art": [
-				null,
+				"http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-500.jpg",
 				null
-			]
+			],
+			"thumbnail": "http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-250.jpg"
 		},
 		{
 			"album": "Somethin' Else",
 			"artist": "Julian Cannonball Adderley",
 			"year": "1958",
 			"mbid": "12c3ef02-0b5d-3350-968c-0af67a329ae0",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"art": [
-				null,
+				"http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-500.jpg",
 				null
-			]
+			],
+			"thumbnail": "http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-250.jpg"
 		},
 		{
 			"album": "Time Out",
 			"artist": "The Dave Brubeck Quartet",
 			"year": "1959",
 			"mbid": "411a7bd1-86ad-3c63-84be-b7cab350d9b8",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"art": [
-				null,
+				"http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-500.jpg",
 				null
-			]
+			],
+			"thumbnail": "http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-250.jpg"
 		},
 		{
 			"album": "Things are Swingin'",
