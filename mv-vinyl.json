@@ -1,12 +1,6 @@
 {
 	"record": [
 		{
-			"album": "Where we've been. Where we go from here. ",
-			"artist": "Friko",
-			"year": "2024",
-			"mbidJson": 0
-		},
-		{
 			"album": "Leadbelly",
 			"artist": "Huddie Ledbetter",
 			"year": "1943",
@@ -2472,6 +2466,12 @@
 		{
 			"album": "Ohio Players",
 			"artist": "The Black Keys",
+			"year": "2024",
+			"mbidJson": 0
+		},
+		{
+			"album": "Where we've been. Where we go from here. ",
+			"artist": "Friko",
 			"year": "2024",
 			"mbidJson": 0
 		},
