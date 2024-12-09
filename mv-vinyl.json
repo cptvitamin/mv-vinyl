@@ -4,12 +4,13 @@
 			"album": "Leadbelly",
 			"artist": "Huddie Ledbetter",
 			"year": "1943",
-			"mbidJson": 5,
+			"mbidJson": 6,
 			"art": [
-				null,
+				"http://coverartarchive.org/release/9be1f819-d127-4410-a18b-f05c0597fdf8/37928797929-500.jpg",
 				null
 			],
-			"mbid": "9be1f819-d127-4410-a18b-f05c0597fdf8"
+			"mbid": "9be1f819-d127-4410-a18b-f05c0597fdf8",
+			"thumbnail": "http://coverartarchive.org/release/9be1f819-d127-4410-a18b-f05c0597fdf8/37928797929-250.jpg"
 		},
 		{
 			"album": "Blossom Dearie",
