@@ -103,11 +103,12 @@
 			"artist": "The Cannonball Adderley Quintet featuring Nat Adderley",
 			"year": "1959",
 			"mbid": "5ba46ef5-af26-48d0-a07b-6ea438425412",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"art": [
-				null,
+				"http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-500.jpg",
 				null
-			]
+			],
+			"thumbnail": "http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-250.jpg"
 		},
 		{
 			"album": "Everyday I Have the Blues",
