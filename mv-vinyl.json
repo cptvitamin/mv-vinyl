@@ -10,7 +10,8 @@
 				null
 			],
 			"mbid": "9be1f819-d127-4410-a18b-f05c0597fdf8",
-			"thumbnail": "http://coverartarchive.org/release/9be1f819-d127-4410-a18b-f05c0597fdf8/37928797929-250.jpg"
+			"thumbnail": "http://coverartarchive.org/release/9be1f819-d127-4410-a18b-f05c0597fdf8/37928797929-250.jpg",
+			"mbJson": 0
 		},
 		{
 			"album": "Blossom Dearie",
@@ -22,7 +23,8 @@
 			"art": [
 				"http://coverartarchive.org/release/12d9211c-8e4e-46e1-b84f-bdf330707256/16553915780-500.jpg",
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Du Jazz dans le ravin",
@@ -32,7 +34,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 1
 		},
 		{
 			"album": "Things are Getting Better",
@@ -42,7 +45,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Porgy and Bess",
@@ -52,7 +56,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "At the Pershing",
@@ -64,7 +69,8 @@
 				"http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-500.jpg",
 				null
 			],
-			"thumbnail": "http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-250.jpg"
+			"thumbnail": "http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-250.jpg",
+			"mbJson": 0
 		},
 		{
 			"album": "Somethin' Else",
@@ -76,7 +82,8 @@
 				"http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-500.jpg",
 				null
 			],
-			"thumbnail": "http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-250.jpg"
+			"thumbnail": "http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-250.jpg",
+			"mbJson": 0
 		},
 		{
 			"album": "Time Out",
@@ -88,7 +95,8 @@
 				"http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-500.jpg",
 				null
 			],
-			"thumbnail": "http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-250.jpg"
+			"thumbnail": "http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-250.jpg",
+			"mbJson": 0
 		},
 		{
 			"album": "Things are Swingin'",
@@ -98,7 +106,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "in San Francisco Live at the Jazz Workshop",
@@ -110,7 +119,8 @@
 				"http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-500.jpg",
 				null
 			],
-			"thumbnail": "http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-250.jpg"
+			"thumbnail": "http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-250.jpg",
+			"mbJson": 0
 		},
 		{
 			"album": "Everyday I Have the Blues",
@@ -120,7 +130,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Encore of Golden Hits",
@@ -132,7 +143,8 @@
 				"https://coverartarchive.org/release/4add6f2e-10ee-4dbb-8ebc-36b41667e954/38647358468-500.jpg",
 				null
 			],
-			"thumbnail": "https://coverartarchive.org/release/4add6f2e-10ee-4dbb-8ebc-36b41667e954/38647358468-250.jpg"
+			"thumbnail": "https://coverartarchive.org/release/4add6f2e-10ee-4dbb-8ebc-36b41667e954/38647358468-250.jpg",
+			"mbJson": 0
 		},
 		{
 			"album": "The Final Tour Live in Copenhagen",
@@ -144,7 +156,8 @@
 				"http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-500.jpg",
 				null
 			],
-			"thumbnail": "http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-250.jpg"
+			"thumbnail": "http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-250.jpg",
+			"mbJson": 0
 		},
 		{
 			"album": "King of the Delta Blues Singers",
@@ -154,7 +167,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Green Onions",
@@ -164,7 +178,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Rare",
@@ -176,7 +191,8 @@
 				"http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-500.jpg",
 				null
 			],
-			"thumbnail": "http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-250.jpg"
+			"thumbnail": "http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-250.jpg",
+			"mbJson": 0
 		},
 		{
 			"album": "Jazz Workshop Revisited",
@@ -188,7 +204,8 @@
 				"http://coverartarchive.org/release/a698a3ed-5244-4367-81aa-3a891388b4f0/15916573855-500.jpg",
 				null
 			],
-			"thumbnail": "http://coverartarchive.org/release/a698a3ed-5244-4367-81aa-3a891388b4f0/15916573855-250.jpg"
+			"thumbnail": "http://coverartarchive.org/release/a698a3ed-5244-4367-81aa-3a891388b4f0/15916573855-250.jpg",
+			"mbJson": 0
 		},
 		{
 			"album": "With the Beatles (Beatlmania!)",
@@ -200,7 +217,8 @@
 				"http://coverartarchive.org/release/9a8df718-b441-37d5-b14e-060ef5052211/2401609661-500.jpg",
 				null
 			],
-			"thumbnail": "http://coverartarchive.org/release/9a8df718-b441-37d5-b14e-060ef5052211/2401609661-250.jpg"
+			"thumbnail": "http://coverartarchive.org/release/9a8df718-b441-37d5-b14e-060ef5052211/2401609661-250.jpg",
+			"mbJson": 0
 		},
 		{
 			"album": "Both Directions at Once The Lost Album",
@@ -210,7 +228,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"artist": "Charles Mingus",
@@ -221,7 +240,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "12 X 5",
@@ -231,7 +251,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Bringing It All Back Home",
@@ -241,7 +262,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Best of Mississippi John Hurt",
@@ -251,7 +273,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Highway 61 Revisited",
@@ -261,7 +284,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "A Love Supreme",
@@ -271,7 +295,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "True Story of Abner Jay",
@@ -281,7 +306,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Man Walked on the Moon",
@@ -291,7 +317,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Warm and Tender Soul",
@@ -301,7 +328,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Four & More Recorded Live in Concert",
@@ -311,7 +339,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Between the Buttons",
@@ -321,7 +350,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Best of Sonny & Cher",
@@ -331,7 +361,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Best of the Lovin' Spoonful",
@@ -341,7 +372,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Left My Blues In San Francisco",
@@ -351,7 +383,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Early Ray Charles",
@@ -361,7 +394,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Soul of a Bell",
@@ -371,7 +405,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Hip Hug-Her",
@@ -381,7 +416,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "I Never Loved a Man the Way I Love You",
@@ -391,7 +427,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Sgt. Peppers Lonely Hearts Club Band",
@@ -401,7 +438,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Sorcerer",
@@ -410,7 +448,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"artist": "Nina Simone",
@@ -420,7 +459,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "For the Sake of the Song",
@@ -430,7 +470,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Electric Ladyland",
@@ -440,7 +481,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"artist": "Traffic",
@@ -450,7 +492,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Oriental Jazz",
@@ -460,7 +503,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Taj Mahal",
@@ -470,7 +514,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Action!",
@@ -480,7 +525,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Aretha Now",
@@ -490,7 +536,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "To Russel, My Brother, Whom i Slept With",
@@ -500,7 +547,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Everybody Knows this is Nowhere",
@@ -510,7 +558,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "After the Rain",
@@ -520,7 +569,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Smash Hits",
@@ -530,7 +580,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Let it Bleed",
@@ -540,7 +591,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Aoxomoxoa",
@@ -550,7 +602,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "De Ole Folks at Home",
@@ -560,7 +613,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Giant Step",
@@ -570,7 +624,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"artist": "Frank Zappa",
@@ -580,7 +635,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Memphis Record",
@@ -590,7 +646,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Nashville Skyline",
@@ -600,7 +657,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "At San Quentin",
@@ -610,7 +668,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Best of Nina Simone",
@@ -620,7 +679,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Piano Improvisations Vol 1",
@@ -630,7 +690,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Tumbleweed Connection",
@@ -640,7 +701,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Plastic Ono Band",
@@ -650,7 +712,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "New Morning",
@@ -660,7 +723,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Workingman's Dead",
@@ -670,7 +734,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Live!",
@@ -680,7 +745,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"artist": "Santana",
@@ -690,7 +756,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Carnegie Hall",
@@ -700,7 +767,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Osmium",
@@ -710,7 +778,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Best of Mose Allison",
@@ -720,7 +789,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "After the Gold Rush",
@@ -730,7 +800,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "American Woman",
@@ -740,7 +811,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"artist": "Miles Davis",
@@ -750,7 +822,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "McLemore Avenue",
@@ -760,7 +833,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The BBC Session Recordings",
@@ -770,7 +844,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "His Band and the Street Choir",
@@ -780,7 +855,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "I am the Blues",
@@ -790,7 +866,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "A Nod is as Good as a Wink to a Blind Horse",
@@ -800,7 +877,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Low Spark of High Heeled Boys",
@@ -810,7 +888,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Greatest Hits",
@@ -820,7 +899,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Silver Tongued Devil and I",
@@ -830,7 +910,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Imagine",
@@ -840,7 +921,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Madman Across the Water",
@@ -850,7 +932,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"artist": "Grateful Dead",
@@ -860,7 +943,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Champions (from the Complete Jack Johnson Sessions)",
@@ -870,7 +954,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Ndikho Xaba and the Natives",
@@ -880,7 +965,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Hot Rocks",
@@ -890,7 +976,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Sticky Fingers",
@@ -900,7 +987,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Led Zeppelin IV",
@@ -910,7 +998,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Allman Brothers Band at Fillmore East",
@@ -920,7 +1009,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "There's a Riot Goin On",
@@ -930,7 +1020,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Tarkus",
@@ -940,7 +1031,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Emerson Lake & Palmer",
@@ -950,7 +1042,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Maggot Brain",
@@ -960,7 +1053,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Fragile",
@@ -970,7 +1064,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Saint Dominic's Preview",
@@ -980,7 +1075,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Sail Away",
@@ -990,7 +1086,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Honky Château",
@@ -1000,7 +1097,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Clear Spot",
@@ -1010,7 +1108,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Energy Control Center",
@@ -1020,7 +1119,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "On the Corner",
@@ -1030,7 +1130,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Turnaround (From the Complete On The Corner Sessions)",
@@ -1040,7 +1141,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Turnaround Rare Miles from the Complete On the Corner Sessions",
@@ -1050,7 +1152,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Might as Well: A Round Records Perspective",
@@ -1060,7 +1163,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Laugh To Keep From Crying",
@@ -1070,7 +1174,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
@@ -1080,7 +1185,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Trilogy",
@@ -1090,7 +1196,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Tales From the Topographic Oceans",
@@ -1100,7 +1207,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Best of B.B. King",
@@ -1110,7 +1218,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Honky Tonk Heroes",
@@ -1120,7 +1229,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Abandoned Luncheonette",
@@ -1130,7 +1240,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Mind Games",
@@ -1140,7 +1251,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "We're an American Band",
@@ -1150,7 +1262,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Soul Makosa",
@@ -1160,7 +1273,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Houses of the Holy",
@@ -1170,7 +1284,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Classic Performances of Miles Davis",
@@ -1180,7 +1295,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "A Little Touch of Schmilsson in the Night",
@@ -1190,7 +1306,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Dark Side of the Moon",
@@ -1200,7 +1317,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Lost Paramount Tapes",
@@ -1210,7 +1328,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Etta James",
@@ -1220,7 +1339,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Brain Salad Surgery",
@@ -1230,7 +1350,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Golden Gate Groove The Sound of Philadelphia Live in San Francisco 1973",
@@ -1240,7 +1361,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Head Hunters",
@@ -1250,7 +1372,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Don't Shoot Me I'm Only the Piano Player",
@@ -1260,7 +1383,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Ship Ohoy",
@@ -1270,7 +1394,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Catalyst",
@@ -1280,7 +1405,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Call Me",
@@ -1290,7 +1416,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Smoker You Drink, The Player You Get",
@@ -1300,7 +1427,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Catch a Fire",
@@ -1310,7 +1438,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Way We Were",
@@ -1320,7 +1449,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Watchout!",
@@ -1330,7 +1460,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Blood on the Tracks",
@@ -1340,7 +1471,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Batsumi",
@@ -1350,7 +1482,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Veedon Fleece",
@@ -1360,7 +1493,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Apostrophe'",
@@ -1370,7 +1504,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Ramblin' Man",
@@ -1380,7 +1515,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "On the Beach",
@@ -1390,7 +1526,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "More Blood, More Tracks The Bootleg Series Vol 14",
@@ -1400,7 +1537,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Natty Dread",
@@ -1410,7 +1548,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "I Got What it Takes",
@@ -1420,7 +1559,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Daryl Hall & John Oates",
@@ -1430,7 +1570,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Good Old Boys",
@@ -1440,7 +1581,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "A Night at the Opera",
@@ -1450,7 +1592,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Man-Child",
@@ -1460,7 +1603,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Captain Fantastic and the Brown Dirt Cowboy",
@@ -1470,7 +1614,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Young Americans",
@@ -1480,7 +1625,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Get It! Heavy Funk and Classic Breaks",
@@ -1490,7 +1636,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Fandango!",
@@ -1500,7 +1647,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Basement Tapes",
@@ -1510,7 +1658,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "In the Slot",
@@ -1520,7 +1669,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Abbey Road",
@@ -1530,7 +1680,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Old & In The Way",
@@ -1540,7 +1691,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Windsong",
@@ -1550,7 +1702,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Witchdoctor's Son",
@@ -1560,7 +1713,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Apartment",
@@ -1570,7 +1724,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Live & Dangerous Boston 1976",
@@ -1580,7 +1735,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Modern Lovers",
@@ -1590,7 +1746,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Jonathan Richman & The Modern Lovers",
@@ -1600,7 +1757,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Songs from the Astral Plane a Tribute to Jonathan Richman and the Modern Lovers",
@@ -1610,7 +1768,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Changes One",
@@ -1620,7 +1779,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Desire",
@@ -1630,7 +1790,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Songs in the Key of Life",
@@ -1640,7 +1801,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Station to Station",
@@ -1650,7 +1812,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Live at Montreux",
@@ -1660,7 +1823,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Free Yourself",
@@ -1670,7 +1834,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Foreigner",
@@ -1680,7 +1845,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Works",
@@ -1690,7 +1856,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Welcome to Zamrock! Vol 1",
@@ -1700,7 +1867,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "V.S.O.P.",
@@ -1710,7 +1878,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Animals",
@@ -1720,7 +1889,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Homecoming Live at the Village Vanguard",
@@ -1730,7 +1900,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Works",
@@ -1740,7 +1911,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Heroes",
@@ -1750,7 +1922,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Summertime Dream",
@@ -1760,7 +1933,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Excitable Boy",
@@ -1770,7 +1944,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Comes a Time",
@@ -1780,7 +1955,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Fresh Fish Special",
@@ -1790,7 +1966,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Some Girls",
@@ -1800,7 +1977,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Fleetwood Mac",
@@ -1810,7 +1988,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Corea/Hancock",
@@ -1820,7 +1999,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Van Halen",
@@ -1830,7 +2010,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Bee Gees Greatest",
@@ -1840,7 +2021,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "No Nukes",
@@ -1850,7 +2032,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Breakfast in America",
@@ -1860,7 +2043,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Bad Girls",
@@ -1870,7 +2054,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The B-52's",
@@ -1880,7 +2065,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Voices",
@@ -1890,7 +2076,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Mr. Hands",
@@ -1900,7 +2087,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The River",
@@ -1910,7 +2098,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Double Fantasy",
@@ -1920,7 +2109,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "I Don't Remember (Single)",
@@ -1930,7 +2120,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Uprising",
@@ -1940,7 +2131,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Scary Monsters",
@@ -1950,7 +2142,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Los Angeles",
@@ -1960,7 +2153,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Women and Children First",
@@ -1970,7 +2164,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Don't Say No",
@@ -1980,7 +2175,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Live in Lesotho",
@@ -1990,7 +2186,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Black-President",
@@ -2000,7 +2197,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Rio",
@@ -2010,7 +2208,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Quartet",
@@ -2020,7 +2219,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Scream",
@@ -2030,7 +2230,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Lonesome Prison Blues Oregon State Prison May 5, 1982",
@@ -2040,7 +2241,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Confrontation",
@@ -2050,7 +2252,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Synchronicity",
@@ -2060,7 +2263,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "She's So Unusual",
@@ -2070,7 +2274,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Infidels",
@@ -2080,7 +2285,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Jokerman (Single)",
@@ -2090,7 +2296,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Everybody's Rockin",
@@ -2100,7 +2307,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Like a Virgin",
@@ -2110,7 +2318,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Heartbeat City",
@@ -2120,7 +2329,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "1984",
@@ -2130,7 +2340,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Into the Gap",
@@ -2140,7 +2351,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "No Jacket Required",
@@ -2150,7 +2362,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Whitney Houston",
@@ -2160,7 +2373,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Can't Hold Back",
@@ -2170,7 +2384,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Inside the Light World Sun Ra Meets the OVC",
@@ -2180,7 +2395,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Garcia Live Volume 14 January 27th 1986",
@@ -2190,7 +2406,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Hold On",
@@ -2200,7 +2417,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Modern Lovers 88",
@@ -2210,7 +2428,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Space Wrangler",
@@ -2220,7 +2439,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Heart Shaped World",
@@ -2230,7 +2450,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "3 Feet High and Rising",
@@ -2240,7 +2461,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Planet (Single)",
@@ -2250,7 +2472,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Doolittle",
@@ -2260,7 +2483,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Ween at the Cat's Cradle",
@@ -2270,7 +2494,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Ready or Not",
@@ -2280,7 +2505,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Bis-Quits",
@@ -2290,7 +2516,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "There's Nothing Wrong with Love",
@@ -2300,7 +2527,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Ahora Me Da Pena",
@@ -2310,7 +2538,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Tremble Under Boom Lights",
@@ -2319,7 +2548,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Twilight Reeling",
@@ -2329,7 +2559,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Beautiful Freak",
@@ -2339,7 +2570,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Odelay",
@@ -2349,7 +2581,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Zaireeka",
@@ -2359,7 +2592,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "In The Aeroplane over the Sea",
@@ -2369,7 +2603,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Dig Me Out",
@@ -2379,7 +2614,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Soft Bulletin",
@@ -2389,7 +2625,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "TheSoft Bulletin Companion",
@@ -2399,7 +2636,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "White Blood Cells",
@@ -2409,7 +2647,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Discovery",
@@ -2419,7 +2658,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Black & White Album",
@@ -2429,7 +2669,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Live at Beachland Tavern March 31, 2002",
@@ -2439,7 +2680,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Peach Picks Cream of the Crop 2003",
@@ -2449,7 +2691,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Tour De France Soundtracks",
@@ -2459,7 +2702,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Unoriginal Artists",
@@ -2469,7 +2713,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Bows + Arrows",
@@ -2479,7 +2724,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Bows + Arrows (Deluxe Edition)",
@@ -2489,7 +2735,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "At War With The Mystics",
@@ -2499,7 +2746,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Frank Black Live 2006",
@@ -2509,7 +2757,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Return to Cookie Mountain",
@@ -2519,7 +2768,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Everything All The Time",
@@ -2529,7 +2779,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Sound of Silver",
@@ -2539,7 +2790,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "You in Reverse",
@@ -2549,7 +2801,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Pride",
@@ -2559,7 +2812,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Fleet Foxes",
@@ -2569,7 +2823,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Thing of the Past",
@@ -2579,7 +2834,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "War Elephant",
@@ -2589,7 +2845,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Devotion",
@@ -2599,7 +2856,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Furr",
@@ -2609,7 +2867,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Evil Urges",
@@ -2619,7 +2878,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Bitte Orca",
@@ -2629,7 +2889,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Hazards of Love",
@@ -2639,7 +2900,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Born on Flag Day",
@@ -2649,7 +2911,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Lisbon",
@@ -2659,7 +2922,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Black Dirt Sessions",
@@ -2669,7 +2933,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Divine Providence",
@@ -2679,7 +2944,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Bon Iver",
@@ -2689,7 +2955,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Mount Wittenberg Orca",
@@ -2699,7 +2966,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Divine Providence (11th Anniversary Edition)",
@@ -2709,7 +2977,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Middle Brother (Limited Edition 10\")",
@@ -2719,7 +2988,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Bravest Man in the Universe",
@@ -2729,7 +2999,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Red",
@@ -2739,7 +3010,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Signs & Signifiers",
@@ -2749,7 +3021,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Red (Taylor's Version)",
@@ -2759,7 +3032,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Boys & Girls",
@@ -2769,7 +3043,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Lonesome Dreams",
@@ -2779,7 +3054,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Muchado",
@@ -2789,7 +3065,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Shovels & Rope",
@@ -2799,7 +3076,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Negativity",
@@ -2809,7 +3087,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Good Evil Alchemy",
@@ -2819,7 +3098,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "1989 (Taylor's Version)",
@@ -2829,7 +3109,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Under Cover of Official Right",
@@ -2839,7 +3120,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "1989",
@@ -2849,7 +3131,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Daptone Super Soul Revue Live at the Apollo",
@@ -2859,7 +3142,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "seeds",
@@ -2869,7 +3153,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Lazaretto",
@@ -2879,7 +3164,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Lost in the Dream",
@@ -2889,7 +3175,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Bob Dylan in the 80's",
@@ -2899,7 +3186,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Gon' Boogaloo",
@@ -2909,7 +3197,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Salad Days",
@@ -2919,7 +3208,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Black Hours",
@@ -2929,7 +3219,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Small Town Heroes",
@@ -2939,7 +3230,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Cosmetics",
@@ -2949,7 +3241,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Live at the Music Hall",
@@ -2959,7 +3252,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Stumpjumper",
@@ -2969,7 +3263,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Sound & Color",
@@ -2979,7 +3274,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Blurryface",
@@ -2989,7 +3285,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Dear God",
@@ -2999,7 +3296,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Untethered Moon",
@@ -3009,7 +3307,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "b'lieve i'm goin (deep) down...",
@@ -3019,7 +3318,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Strange Trails",
@@ -3029,7 +3329,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "No No No",
@@ -3039,7 +3340,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Spirit Moves",
@@ -3049,7 +3351,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "I Love You, Honeybear",
@@ -3059,7 +3362,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Dancing with Bad Grammar",
@@ -3069,7 +3373,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Awaken, My Love!",
@@ -3079,7 +3384,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Singing Saw",
@@ -3089,7 +3395,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Acoustic Recordings",
@@ -3099,7 +3406,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "A Man Alive",
@@ -3109,7 +3417,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Labor of Love",
@@ -3119,7 +3428,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "I Had a Dream That You Were Mine",
@@ -3129,7 +3439,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "City Music",
@@ -3139,7 +3450,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Changes",
@@ -3149,7 +3461,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Undivided Heart & Soul",
@@ -3159,7 +3472,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Divide",
@@ -3169,7 +3483,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Dog",
@@ -3179,7 +3494,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "American Epic The Sessions",
@@ -3189,7 +3505,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Caamp",
@@ -3199,7 +3516,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Philadelphia Experiment",
@@ -3209,7 +3527,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Pure Comedy",
@@ -3219,7 +3538,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Live at Newport Folk",
@@ -3229,7 +3549,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The World We Built",
@@ -3239,7 +3560,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Lukas Nelson & Promise of the Real",
@@ -3249,7 +3571,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Goodnight Rhonda Lee",
@@ -3259,7 +3582,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Lost at Last Vol. 1",
@@ -3269,7 +3593,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Where the Gods are in Peace",
@@ -3279,7 +3604,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"artist": "Willie Watson",
@@ -3289,7 +3615,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Crack-up",
@@ -3299,7 +3626,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "I Won't Let Up: Live At Music Hall of Williamsburg",
@@ -3309,7 +3637,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Hot Thoughts",
@@ -3319,7 +3648,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Bottle It In",
@@ -3329,7 +3659,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Lamp Lit Prose",
@@ -3339,7 +3670,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Tell Me How You Really Feel",
@@ -3349,7 +3681,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Built to Spill Plays the Songs of Daniel Johnston",
@@ -3359,7 +3692,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Boarding House Reach",
@@ -3369,7 +3703,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "All My Relations",
@@ -3379,7 +3714,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "God's Favorite Customer",
@@ -3389,7 +3725,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Nude Party",
@@ -3399,7 +3736,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "A Change is Gonna Come (Live at Newport Folk Fest)",
@@ -3409,7 +3747,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Window Flowers",
@@ -3419,7 +3758,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "I Can Feel You Creep Into My Private Life",
@@ -3429,7 +3769,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Boys",
@@ -3439,7 +3780,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Lil G.L.'s Blue Bonanza",
@@ -3449,7 +3791,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "State of all Things",
@@ -3459,7 +3802,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Live at Third Man Records",
@@ -3469,7 +3813,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Con Todo El Mundo",
@@ -3479,7 +3824,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "My Finest Work Yet",
@@ -3489,7 +3835,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"artist": "Kjellvandertonbruket",
@@ -3499,7 +3846,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "By & By",
@@ -3509,7 +3857,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Illiterate Light",
@@ -3519,7 +3868,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Lonely As You Are (Single)",
@@ -3529,7 +3879,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Mayonnaise",
@@ -3539,7 +3890,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "A Tribute to Curtis Mayfield",
@@ -3549,7 +3901,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Miss Universe",
@@ -3559,7 +3912,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Center Won't Hold",
@@ -3569,7 +3923,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Oh My God",
@@ -3579,7 +3934,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Help Us Stranger",
@@ -3589,7 +3945,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Turn Off The News Build a Garden",
@@ -3599,7 +3956,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Romã",
@@ -3609,7 +3967,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Come On Up To The House Women Sing Waits",
@@ -3619,7 +3978,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Black Pumas",
@@ -3629,7 +3989,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Live! @ Cafe Carlyle",
@@ -3639,7 +4000,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Loves of your Life",
@@ -3649,7 +4011,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Long In The Tooth",
@@ -3659,7 +4022,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Capitol Cuts",
@@ -3669,7 +4033,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Suite for Max Brown",
@@ -3679,7 +4044,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Heavy Light",
@@ -3689,7 +4055,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Temple",
@@ -3699,7 +4066,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Just Dropped In...",
@@ -3709,7 +4077,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Caught It From The Rye",
@@ -3719,7 +4088,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Sundowner",
@@ -3729,7 +4099,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Live from Fort Adams August 1, 2020",
@@ -3739,7 +4110,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Italian Ice",
@@ -3749,7 +4121,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Folklore",
@@ -3759,7 +4132,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Evermore",
@@ -3769,7 +4143,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Late Night Tales",
@@ -3779,7 +4154,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Mordechai",
@@ -3789,7 +4165,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Texas Sun",
@@ -3799,7 +4176,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Speed, Sound, Lonely KV (EP)",
@@ -3809,7 +4187,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Strawberry Mansion",
@@ -3819,7 +4198,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Miss Kitty's Lounge",
@@ -3829,7 +4209,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Voyager",
@@ -3839,7 +4220,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Amerikinda",
@@ -3849,7 +4231,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Day Plan",
@@ -3859,7 +4242,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Vol 2: Baca Sewa",
@@ -3869,7 +4253,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "A Night at the Little Los Angeles",
@@ -3879,7 +4264,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Delta Kream",
@@ -3889,7 +4275,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Red Rocks 2020",
@@ -3899,7 +4286,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Exciting Sounds of...",
@@ -3909,7 +4297,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Fear of the Dawn",
@@ -3919,7 +4308,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Eternamente",
@@ -3929,7 +4319,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "You, Yeah, You",
@@ -3939,7 +4330,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Quietly Blowing It",
@@ -3949,7 +4341,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Toy (EP)",
@@ -3959,7 +4352,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Man From Waco",
@@ -3969,7 +4363,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "This is a Photograph",
@@ -3979,7 +4374,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "When the Wind Forgets Your Name",
@@ -3989,7 +4385,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Texas Moon",
@@ -3999,7 +4396,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Alien Coast",
@@ -4009,7 +4407,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Chloë And The Next 20th Century (Loser Edition)",
@@ -4019,7 +4418,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "El Bueno Y El Malo",
@@ -4029,7 +4429,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Live at Radio City Music Hall",
@@ -4039,7 +4440,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"artist": "Dome & JD",
@@ -4049,7 +4451,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Sunburned",
@@ -4059,7 +4462,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Stick Season (We'll All Be Here Forever)",
@@ -4069,7 +4473,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Live at Stubb's",
@@ -4079,7 +4484,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Chronicles of a Diamond",
@@ -4089,7 +4495,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"artist": "Charlie Parr",
@@ -4099,7 +4506,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Highway Forever",
@@ -4109,7 +4517,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Ohio Players",
@@ -4119,7 +4528,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "The Tortured Poets Department",
@@ -4129,7 +4539,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		},
 		{
 			"album": "Where we've been. Where we go from here. ",
@@ -4139,7 +4550,8 @@
 			"art": [
 				null,
 				null
-			]
+			],
+			"mbJson": 0
 		}
 	]
 }
