@@ -5,10 +5,7 @@
 			"artist": "Huddie Ledbetter",
 			"year": "1943",
 			"mbidJson": 6,
-			"art": [
-				"http://coverartarchive.org/release/9be1f819-d127-4410-a18b-f05c0597fdf8/37928797929-500.jpg",
-				null
-			],
+			"art": "http://coverartarchive.org/release/9be1f819-d127-4410-a18b-f05c0597fdf8/37928797929-500.jpg",
 			"mbid": "9be1f819-d127-4410-a18b-f05c0597fdf8",
 			"thumbnail": "http://coverartarchive.org/release/9be1f819-d127-4410-a18b-f05c0597fdf8/37928797929-250.jpg",
 			"mbJson": 0
@@ -20,10 +17,7 @@
 			"mbid": "12d9211c-8e4e-46e1-b84f-bdf330707256",
 			"mbidJson": 40,
 			"thumbnail": "http://coverartarchive.org/release/12d9211c-8e4e-46e1-b84f-bdf330707256/16553915780-250.jpg",
-			"art": [
-				"http://coverartarchive.org/release/12d9211c-8e4e-46e1-b84f-bdf330707256/16553915780-500.jpg",
-				null
-			],
+			"art": "http://coverartarchive.org/release/12d9211c-8e4e-46e1-b84f-bdf330707256/16553915780-500.jpg",
 			"mbJson": 0
 		},
 		{
@@ -31,10 +25,6 @@
 			"artist": "Serge Gainsbourg",
 			"year": "1958",
 			"mbidJson": 1,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 9
 		},
 		{
@@ -42,10 +32,6 @@
 			"artist": "Cannonball Adderley with Milt Jackson",
 			"year": "1958",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 7
 		},
 		{
@@ -53,10 +39,6 @@
 			"artist": "Miles Davis Orchestra under the direction of Gil Evans",
 			"year": "1958",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 1
 		},
 		{
@@ -65,10 +47,7 @@
 			"year": "1958",
 			"mbid": "5160292d-d90f-4aa2-a6c7-65c477925c19",
 			"mbidJson": 4,
-			"art": [
-				"http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-500.jpg",
-				null
-			],
+			"art": "http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-500.jpg",
 			"thumbnail": "http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-250.jpg",
 			"mbJson": 0
 		},
@@ -78,10 +57,7 @@
 			"year": "1958",
 			"mbid": "12c3ef02-0b5d-3350-968c-0af67a329ae0",
 			"mbidJson": 1,
-			"art": [
-				"http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-500.jpg",
-				null
-			],
+			"art": "http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-500.jpg",
 			"thumbnail": "http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-250.jpg",
 			"mbJson": 0
 		},
@@ -91,10 +67,7 @@
 			"year": "1959",
 			"mbid": "411a7bd1-86ad-3c63-84be-b7cab350d9b8",
 			"mbidJson": 1,
-			"art": [
-				"http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-500.jpg",
-				null
-			],
+			"art": "http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-500.jpg",
 			"thumbnail": "http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-250.jpg",
 			"mbJson": 0
 		},
@@ -103,10 +76,6 @@
 			"artist": "Peggy Lee",
 			"year": "1959",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -115,10 +84,7 @@
 			"year": "1959",
 			"mbid": "5ba46ef5-af26-48d0-a07b-6ea438425412",
 			"mbidJson": 1,
-			"art": [
-				"http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-500.jpg",
-				null
-			],
+			"art": "http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-500.jpg",
 			"thumbnail": "http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-250.jpg",
 			"mbJson": 0
 		},
@@ -127,10 +93,6 @@
 			"artist": "Joe Williams, Count Basie and his Orchestra",
 			"year": "1959",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -139,10 +101,7 @@
 			"year": "1960",
 			"mbid": "4add6f2e-10ee-4dbb-8ebc-36b41667e954",
 			"mbidJson": 1,
-			"art": [
-				"https://coverartarchive.org/release/4add6f2e-10ee-4dbb-8ebc-36b41667e954/38647358468-500.jpg",
-				null
-			],
+			"art": "https://coverartarchive.org/release/4add6f2e-10ee-4dbb-8ebc-36b41667e954/38647358468-500.jpg",
 			"thumbnail": "https://coverartarchive.org/release/4add6f2e-10ee-4dbb-8ebc-36b41667e954/38647358468-250.jpg",
 			"mbJson": 0
 		},
@@ -152,10 +111,7 @@
 			"year": "1960",
 			"mbid": "78d472d6-322d-4e50-a88c-617946e28d37",
 			"mbidJson": 1,
-			"art": [
-				"http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-500.jpg",
-				null
-			],
+			"art": "http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-500.jpg",
 			"thumbnail": "http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-250.jpg",
 			"mbJson": 0
 		},
@@ -164,10 +120,6 @@
 			"artist": "Robert Johnson",
 			"year": "1961",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -175,10 +127,6 @@
 			"artist": "Booke T. & The M.G.s",
 			"year": "1962",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -187,10 +135,7 @@
 			"year": "1962",
 			"mbid": "73780432-8e48-4e62-acec-53c26798c730",
 			"mbidJson": 1,
-			"art": [
-				"http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-500.jpg",
-				null
-			],
+			"art": "http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-500.jpg",
 			"thumbnail": "http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-250.jpg",
 			"mbJson": 0
 		},
@@ -200,10 +145,7 @@
 			"year": "1962",
 			"mbid": "a698a3ed-5244-4367-81aa-3a891388b4f0",
 			"mbidJson": 1,
-			"art": [
-				"http://coverartarchive.org/release/a698a3ed-5244-4367-81aa-3a891388b4f0/15916573855-500.jpg",
-				null
-			],
+			"art": "http://coverartarchive.org/release/a698a3ed-5244-4367-81aa-3a891388b4f0/15916573855-500.jpg",
 			"thumbnail": "http://coverartarchive.org/release/a698a3ed-5244-4367-81aa-3a891388b4f0/15916573855-250.jpg",
 			"mbJson": 0
 		},
@@ -213,10 +155,7 @@
 			"year": "1963",
 			"mbid": "9a8df718-b441-37d5-b14e-060ef5052211",
 			"mbidJson": 1,
-			"art": [
-				"http://coverartarchive.org/release/9a8df718-b441-37d5-b14e-060ef5052211/2401609661-500.jpg",
-				null
-			],
+			"art": "http://coverartarchive.org/release/9a8df718-b441-37d5-b14e-060ef5052211/2401609661-500.jpg",
 			"thumbnail": "http://coverartarchive.org/release/9a8df718-b441-37d5-b14e-060ef5052211/2401609661-250.jpg",
 			"mbJson": 0
 		},
@@ -225,10 +164,6 @@
 			"artist": "John Coltrane",
 			"year": "1963",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -237,10 +172,7 @@
 			"year": "1964",
 			"mbid": "70d13ec1-e731-3775-b70f-c1a2fb416828",
 			"mbidJson": 1,
-			"art": [
-				"http://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/8878798092-500.jpg",
-				null
-			],
+			"art": "http://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/8878798092-500.jpg",
 			"mbJson": 0,
 			"thumbnail": "http://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/8878798092-250.jpg"
 		},
@@ -249,10 +181,6 @@
 			"artist": "The Rolling Stones",
 			"year": "1964",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -260,10 +188,6 @@
 			"artist": "Bob Dylan",
 			"year": "1965",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -271,10 +195,6 @@
 			"artist": "Mississippi John Hurt",
 			"year": "1965",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -282,10 +202,6 @@
 			"artist": "Bob Dylan",
 			"year": "1965",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -293,10 +209,6 @@
 			"artist": "John Coltrane",
 			"year": "1965",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -304,10 +216,6 @@
 			"artist": "Abner Jay",
 			"year": "1965",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -315,10 +223,6 @@
 			"artist": "Abner Jay",
 			"year": "1965",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -326,10 +230,6 @@
 			"artist": "Percy Sledge",
 			"year": "1966",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -337,10 +237,6 @@
 			"artist": "Miles Davis",
 			"year": "1966",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -348,10 +244,6 @@
 			"artist": "The Rolling Stones",
 			"year": "1967",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -359,10 +251,6 @@
 			"artist": "Sonny & Cher",
 			"year": "1967",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -370,10 +258,6 @@
 			"artist": "Lovin' Spoonful",
 			"year": "1967",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -381,10 +265,6 @@
 			"artist": "Buddy Guy",
 			"year": "1967",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -392,10 +272,6 @@
 			"artist": "Ray Charles",
 			"year": "1967",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -403,10 +279,6 @@
 			"artist": "William Bell",
 			"year": "1967",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -414,10 +286,6 @@
 			"artist": "Booker T. & the M.G.s",
 			"year": "1967",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -425,10 +293,6 @@
 			"artist": "Aretha Franklin",
 			"year": "1967",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -436,20 +300,12 @@
 			"artist": "The Beatles",
 			"year": "1967",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
 			"album": "Sorcerer",
 			"artist": "Miles Davis 1967",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -457,10 +313,6 @@
 			"album": "Nina Simone Sings The Blues",
 			"year": "1967",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -468,10 +320,6 @@
 			"artist": "Townes Van Zandt",
 			"year": "1968",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -479,10 +327,6 @@
 			"artist": "Jimi Hendrix",
 			"year": "1968",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -490,10 +334,6 @@
 			"album": "Traffic",
 			"year": "1968",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -501,10 +341,6 @@
 			"artist": "Lloyd Miller",
 			"year": "1968",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -512,10 +348,6 @@
 			"artist": "Taj Mahal",
 			"year": "1968",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -523,10 +355,6 @@
 			"artist": "Desmond Dekker and the Aces",
 			"year": "1968",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -534,10 +362,6 @@
 			"artist": "Aretha Franklin",
 			"year": "1968",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -545,10 +369,6 @@
 			"artist": "Bill Cosby",
 			"year": "1968",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -556,10 +376,6 @@
 			"artist": "Neil Young with Crazy Horse",
 			"year": "1969",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -567,10 +383,6 @@
 			"artist": "Muddy Waters",
 			"year": "1969",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -578,10 +390,6 @@
 			"artist": "Jimi Hendrix",
 			"year": "1969",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -589,10 +397,6 @@
 			"artist": "Rolling Stones",
 			"year": "1969",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -600,10 +404,6 @@
 			"artist": "Grateful Dead",
 			"year": "1969",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -611,10 +411,6 @@
 			"artist": "Taj Mahal",
 			"year": "1969",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -622,10 +418,6 @@
 			"artist": "Taj Mahal",
 			"year": "1969",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -633,10 +425,6 @@
 			"album": "Hot Rats",
 			"year": "1969",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -644,10 +432,6 @@
 			"artist": "Elvis Presley",
 			"year": "1969",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -655,10 +439,6 @@
 			"artist": "Bob Dylan",
 			"year": "1969",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -666,10 +446,6 @@
 			"artist": "Johnny Cash",
 			"year": "1969",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -677,10 +453,6 @@
 			"artist": "Nina Simone",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -688,10 +460,6 @@
 			"artist": "Chick Corea",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -699,10 +467,6 @@
 			"artist": "Elton John",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -710,10 +474,6 @@
 			"artist": "John Lennon",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -721,10 +481,6 @@
 			"artist": "Bob Dylan",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -732,10 +488,6 @@
 			"artist": "Grateful Dead",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -743,10 +495,6 @@
 			"artist": "Fela Ransome-Kuti and The AFRICA '70 with Ginger Baker",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -754,10 +502,6 @@
 			"album": "Abraxas",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -765,10 +509,6 @@
 			"artist": "Neil Young",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -776,10 +516,6 @@
 			"artist": "Parliament",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -787,10 +523,6 @@
 			"artist": "Mose Allison",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -798,10 +530,6 @@
 			"artist": "Neil Young",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -809,10 +537,6 @@
 			"artist": "The Guess Who",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -820,10 +544,6 @@
 			"album": "Fearless Live at the Fillmore East",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -831,10 +551,6 @@
 			"artist": "Booker T. & the M.G.s",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -842,10 +558,6 @@
 			"artist": "The Faces",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -853,10 +565,6 @@
 			"artist": "Van Morrison",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -864,10 +572,6 @@
 			"artist": "Willie Dixon",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -875,10 +579,6 @@
 			"artist": "Faces",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -886,10 +586,6 @@
 			"artist": "Traffic",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -897,10 +593,6 @@
 			"artist": "Herb Alpert & the Tijuana Brass",
 			"year": "1970",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -908,10 +600,6 @@
 			"artist": "Kris Kristofferson",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -919,10 +607,6 @@
 			"artist": "John Lennon",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -930,10 +614,6 @@
 			"artist": "Elton John",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -941,10 +621,6 @@
 			"album": "Grateful Dead (Skull & Roses)",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -952,10 +628,6 @@
 			"artist": "Miles Davis",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -963,10 +635,6 @@
 			"artist": "Ndikho Xaba and the Natives",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -974,10 +642,6 @@
 			"artist": "The Rolling Stones",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -985,10 +649,6 @@
 			"artist": "The Rolling Stones",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -996,10 +656,6 @@
 			"artist": "Led Zeppelin",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1007,10 +663,6 @@
 			"artist": "The Allman Brothers Band",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1018,10 +670,6 @@
 			"artist": "Sly and the Family Stone",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1029,10 +677,6 @@
 			"artist": "Emerson, Lake & Palmer",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1040,10 +684,6 @@
 			"artist": "Emerson Lake & Palmer",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1051,10 +691,6 @@
 			"artist": "Funkadelic",
 			"year": "1971",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1062,10 +698,6 @@
 			"artist": "Yes",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1073,10 +705,6 @@
 			"artist": "Van Morrison",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1084,10 +712,6 @@
 			"artist": "Randy Newman",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1095,10 +719,6 @@
 			"artist": "Elton John",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1106,10 +726,6 @@
 			"artist": "Captain Beefheart and the Magic Band",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1117,10 +733,6 @@
 			"artist": "The Lightmen Plus One",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1128,10 +740,6 @@
 			"artist": "Miles Davis",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1139,10 +747,6 @@
 			"artist": "Miles Davis",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1150,10 +754,6 @@
 			"artist": "Miles Davis",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1161,10 +761,6 @@
 			"artist": "Jerry Garcia",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1172,10 +768,6 @@
 			"artist": "Nat Turner Rebellion",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1183,10 +775,6 @@
 			"artist": "David Bowie",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1194,10 +782,6 @@
 			"artist": "Emerson, Lake & Palmer",
 			"year": "1972",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1205,10 +789,6 @@
 			"artist": "Yes",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1216,10 +796,6 @@
 			"artist": "B.B. King",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1227,10 +803,6 @@
 			"artist": "Waylon Jennings",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1238,10 +810,6 @@
 			"artist": "Daryl Hall & John Oates",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1249,10 +817,6 @@
 			"artist": "John Lennon",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1260,10 +824,6 @@
 			"artist": "Grand Funk",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1271,10 +831,6 @@
 			"artist": "Lafayette Afro-Rock Band",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1282,10 +838,6 @@
 			"artist": "Led Zeppelin",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1293,10 +845,6 @@
 			"artist": "Miles Davis",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1304,10 +852,6 @@
 			"artist": "Harry Nillson",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1315,10 +859,6 @@
 			"artist": "Pink Floyd",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1326,10 +866,6 @@
 			"artist": "James Booker",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1337,10 +873,6 @@
 			"artist": "Etta James",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1348,10 +880,6 @@
 			"artist": "Emerson, Lake & Palmer",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1359,10 +887,6 @@
 			"artist": "Various Artists",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1370,10 +894,6 @@
 			"artist": "Herbie Hancock",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1381,10 +901,6 @@
 			"artist": "Elton John",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1392,10 +908,6 @@
 			"artist": "The O'Jays",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1403,10 +915,6 @@
 			"artist": "Willie Dixon",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1414,10 +922,6 @@
 			"artist": "Al Green",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1425,10 +929,6 @@
 			"artist": "Joe Walsh",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1436,10 +936,6 @@
 			"artist": "Bob Marley & The Wailers",
 			"year": "1973",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1447,10 +943,6 @@
 			"artist": "Barbara Streisand",
 			"year": "1974",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1458,10 +950,6 @@
 			"artist": "Wells Fargo",
 			"year": "1974",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1469,10 +957,6 @@
 			"artist": "Bob Dylan",
 			"year": "1974",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1480,10 +964,6 @@
 			"artist": "Batsumi",
 			"year": "1974",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1491,10 +971,6 @@
 			"artist": "Van Morrison",
 			"year": "1974",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1502,10 +978,6 @@
 			"artist": "Frank Zappa",
 			"year": "1974",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1513,10 +985,6 @@
 			"artist": "Waylon Jennings",
 			"year": "1974",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1524,10 +992,6 @@
 			"artist": "Neil Young",
 			"year": "1974",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1535,10 +999,6 @@
 			"artist": "Bob Dylan",
 			"year": "1974",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1546,10 +1006,6 @@
 			"artist": "Bob Marley & The Wailers",
 			"year": "1974",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1557,10 +1013,6 @@
 			"artist": "Koko Tayler",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1568,10 +1020,6 @@
 			"artist": "Daryl Hall & John Oates",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1579,10 +1027,6 @@
 			"artist": "Randy Newman",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1590,10 +1034,6 @@
 			"artist": "Queen",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1601,10 +1041,6 @@
 			"artist": "Herbie Hancock",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1612,10 +1048,6 @@
 			"artist": "Elton John",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1623,10 +1055,6 @@
 			"artist": "David Bowie",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1634,10 +1062,6 @@
 			"artist": "Various Artists",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1645,10 +1069,6 @@
 			"artist": "ZZ Top",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1656,10 +1076,6 @@
 			"artist": "Bob Dylan and The Band",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1667,10 +1083,6 @@
 			"artist": "Tower of Power",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1678,10 +1090,6 @@
 			"artist": "The Beatles",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1689,10 +1097,6 @@
 			"artist": "Old & In The Way",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1700,10 +1104,6 @@
 			"artist": "Johnn Denver",
 			"year": "1975",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1711,10 +1111,6 @@
 			"artist": "Okay Temiz & Johnny Dyani",
 			"year": "1976",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1722,10 +1118,6 @@
 			"artist": "Dexter Gordon Quartet",
 			"year": "1976",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1733,10 +1125,6 @@
 			"artist": "Peter Tosh",
 			"year": "1976",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1744,10 +1132,6 @@
 			"artist": "The Modern Lovers",
 			"year": "1976",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1755,10 +1139,6 @@
 			"artist": "Jonathan Richman & The Modern Lovers",
 			"year": "1976",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1766,10 +1146,6 @@
 			"artist": "Various Artists",
 			"year": "1976",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1777,10 +1153,6 @@
 			"artist": "David Bowie",
 			"year": "1976",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1788,10 +1160,6 @@
 			"artist": "Bob Dylan",
 			"year": "1976",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1799,10 +1167,6 @@
 			"artist": "Stevie Wonder",
 			"year": "1976",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1810,10 +1174,6 @@
 			"artist": "David Bowie",
 			"year": "1976",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1821,10 +1181,6 @@
 			"artist": "Sun Ra & His Arkestra",
 			"year": "1976",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1832,10 +1188,6 @@
 			"artist": "Experience Unlimited",
 			"year": "1977",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1843,10 +1195,6 @@
 			"artist": "Foreigner",
 			"year": "1977",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1854,10 +1202,6 @@
 			"artist": "Emerson Lake & Palmer",
 			"year": "1977",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1865,10 +1209,6 @@
 			"artist": "Various Artists",
 			"year": "1977",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1876,10 +1216,6 @@
 			"artist": "Herbie Hancock",
 			"year": "1977",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1887,10 +1223,6 @@
 			"artist": "Pink Floyd",
 			"year": "1977",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1898,10 +1230,6 @@
 			"artist": "Dexter Gordon",
 			"year": "1977",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1909,10 +1237,6 @@
 			"artist": "Emerson, Lake & Palmer",
 			"year": "1977",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1920,10 +1244,6 @@
 			"artist": "David Bowie",
 			"year": "1977",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1931,10 +1251,6 @@
 			"artist": "Gordon Lightfoot",
 			"year": "1976",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1942,10 +1258,6 @@
 			"artist": "Warren Zevon",
 			"year": "1978",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1953,10 +1265,6 @@
 			"artist": "Neil Young",
 			"year": "1978",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1964,10 +1272,6 @@
 			"artist": "Robert Gordon w/ Link Wray",
 			"year": "1978",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1975,10 +1279,6 @@
 			"artist": "The Rolling Stones",
 			"year": "1978",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1986,10 +1286,6 @@
 			"artist": "Fleetwood Mac",
 			"year": "1978",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -1997,10 +1293,6 @@
 			"artist": "Chick Corea, Herbie Hancock",
 			"year": "1978",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2008,10 +1300,6 @@
 			"artist": "Van Halen",
 			"year": "1978",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2019,10 +1307,6 @@
 			"artist": "Bee Gees",
 			"year": "1979",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2030,10 +1314,6 @@
 			"artist": "Various Artists",
 			"year": "1979",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2041,10 +1321,6 @@
 			"artist": "Supertramp",
 			"year": "1979",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2052,10 +1328,6 @@
 			"artist": "Donna Summer",
 			"year": "1979The B-52s",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2063,10 +1335,6 @@
 			"artist": "The B-52's",
 			"year": "1979",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2074,10 +1342,6 @@
 			"artist": "Daryl Hall, John Oates",
 			"year": "1980",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2085,10 +1349,6 @@
 			"artist": "Herbie Hancock",
 			"year": "1980",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2096,10 +1356,6 @@
 			"artist": "Bruce Springsteen",
 			"year": "1980",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2107,10 +1363,6 @@
 			"artist": "John Lennon, Yoko Ono",
 			"year": "1980",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2118,10 +1370,6 @@
 			"artist": "Peter Gabriel",
 			"year": "1980",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2129,10 +1377,6 @@
 			"artist": "Bob Marley & The Wailers",
 			"year": "1980",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2140,10 +1384,6 @@
 			"artist": "David Bowie",
 			"year": "1980",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2151,10 +1391,6 @@
 			"artist": "X",
 			"year": "1980",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2162,10 +1398,6 @@
 			"artist": "Van HAlen",
 			"year": "1980",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2173,10 +1405,6 @@
 			"artist": "Billy Squire",
 			"year": "1981",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2184,10 +1412,6 @@
 			"artist": "Hugh Masekela & Company",
 			"year": "1981",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2195,10 +1419,6 @@
 			"artist": "Fela Kuti",
 			"year": "1981",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2206,10 +1426,6 @@
 			"artist": "Duran Duran",
 			"year": "1982",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2217,10 +1433,6 @@
 			"artist": "Herbie Hancock",
 			"year": "1982",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2228,10 +1440,6 @@
 			"artist": "Michael Jackson",
 			"year": "1982",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2239,10 +1447,6 @@
 			"artist": "Jery Garcia",
 			"year": "1982",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2250,10 +1454,6 @@
 			"artist": "Bob Marley & The Wailers",
 			"year": "1983",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2261,10 +1461,6 @@
 			"artist": "The Police",
 			"year": "1983",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2272,10 +1468,6 @@
 			"artist": "Cyndi Lauper",
 			"year": "1983",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2283,10 +1475,6 @@
 			"artist": "Bob Dylan",
 			"year": "1983",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2294,10 +1482,6 @@
 			"artist": "Bob Dylan",
 			"year": "1983",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2305,10 +1489,6 @@
 			"artist": "Neil Young and the Shocking Pinks",
 			"year": "1983",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2316,10 +1496,6 @@
 			"artist": "Madonna",
 			"year": "1984",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2327,10 +1503,6 @@
 			"artist": "The Cars",
 			"year": "1984",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2338,10 +1510,6 @@
 			"artist": "Van Halen",
 			"year": "1984",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2349,10 +1517,6 @@
 			"artist": "Thompson Twins",
 			"year": "1984",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2360,10 +1524,6 @@
 			"artist": "Phil Collins",
 			"year": "1985",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2371,10 +1531,6 @@
 			"artist": "Whitney Houston",
 			"year": "1985",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2382,10 +1538,6 @@
 			"artist": "Eddie Money",
 			"year": "1986",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2393,10 +1545,6 @@
 			"artist": "Sun Ra",
 			"year": "1986",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2404,10 +1552,6 @@
 			"artist": "Jerry Garcia, John Kahn",
 			"year": "1986",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2415,10 +1559,6 @@
 			"artist": "Nitty Gritty Dirt Band",
 			"year": "1987",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2426,10 +1566,6 @@
 			"artist": "Jonathan Richman And The Modern Lovers",
 			"year": "1988",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2437,10 +1573,6 @@
 			"artist": "Widespread Panic",
 			"year": "1988",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2448,10 +1580,6 @@
 			"artist": "Chris Isaak",
 			"year": "1989",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2459,10 +1587,6 @@
 			"artist": "De La Soul",
 			"year": "1989",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2470,10 +1594,6 @@
 			"artist": "The Sugarcubes",
 			"year": "1989",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2481,10 +1601,6 @@
 			"artist": "The Pixies",
 			"year": "1989",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2492,10 +1608,6 @@
 			"artist": "Ween",
 			"year": "1992",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2503,10 +1615,6 @@
 			"artist": "Grateful Dead",
 			"year": "1992 1993 1994 1995",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2514,10 +1622,6 @@
 			"artist": "The Bis-Quits",
 			"year": "1993",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2525,10 +1629,6 @@
 			"artist": "Built to Spill",
 			"year": "1995",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2536,20 +1636,12 @@
 			"artist": "Buena Vista Social Club",
 			"year": "1996",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
 			"album": "Tremble Under Boom Lights",
 			"artist": "Jonathan Fire Eater",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2557,10 +1649,6 @@
 			"artist": "Lou Reed",
 			"year": "1996",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2568,10 +1656,6 @@
 			"artist": "Eels",
 			"year": "1996",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2579,10 +1663,6 @@
 			"artist": "Beck",
 			"year": "1996",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2590,10 +1670,6 @@
 			"artist": "The Flaming Lips",
 			"year": "1997",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2601,10 +1677,6 @@
 			"artist": "Neutral Milk Hotel",
 			"year": "1997",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2612,10 +1684,6 @@
 			"artist": "Sleater Kinnney",
 			"year": "1997",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2623,10 +1691,6 @@
 			"artist": "The Flaming Lips",
 			"year": "1999",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2634,10 +1698,6 @@
 			"artist": "The Flaming Lips",
 			"year": "1999",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2645,10 +1705,6 @@
 			"artist": "The White Stripes",
 			"year": "2001",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2656,10 +1712,6 @@
 			"artist": "Daft Punk",
 			"year": "2001",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2667,10 +1719,6 @@
 			"artist": "The Walkmen",
 			"year": "2001",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2678,10 +1726,6 @@
 			"artist": "The Black Keys",
 			"year": "2002",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2689,10 +1733,6 @@
 			"artist": "The Allman Brothers Band",
 			"year": "2003",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2700,10 +1740,6 @@
 			"artist": "Kraftwerk",
 			"year": "2003",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2711,10 +1747,6 @@
 			"artist": "Boise Cover Band",
 			"year": "2003",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2722,10 +1754,6 @@
 			"artist": "The Walkmen",
 			"year": "2004",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2733,10 +1761,6 @@
 			"artist": "The Walkmen",
 			"year": "2004",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2744,10 +1768,6 @@
 			"artist": "The Flaming Lips",
 			"year": "2006",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2755,10 +1775,6 @@
 			"artist": "Frank Black",
 			"year": "2006",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2766,10 +1782,6 @@
 			"artist": "TV On The Radio",
 			"year": "2006",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2777,10 +1789,6 @@
 			"artist": "Band of Horses",
 			"year": "2006",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2788,10 +1796,6 @@
 			"artist": "LCD Soundsystem",
 			"year": "2007",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2799,10 +1803,6 @@
 			"artist": "Built to Spill",
 			"year": "2007",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2810,10 +1810,6 @@
 			"artist": "Phosphorescent",
 			"year": "2007",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2821,10 +1817,6 @@
 			"artist": "Fleet Foxes",
 			"year": "2008",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2832,10 +1824,6 @@
 			"artist": "Vetiver",
 			"year": "2008",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2843,10 +1831,6 @@
 			"artist": "Deer Tick",
 			"year": "2008Devotion",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2854,10 +1838,6 @@
 			"artist": "Beach House",
 			"year": "2008",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2865,10 +1845,6 @@
 			"artist": "Blitzen Trapper",
 			"year": "2008",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2876,10 +1852,6 @@
 			"artist": "My Morning Jacket",
 			"year": "2008",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2887,10 +1859,6 @@
 			"artist": "Dirty Projectors",
 			"year": "2009",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2898,10 +1866,6 @@
 			"artist": "The Decemberists",
 			"year": "2009",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2909,10 +1873,6 @@
 			"artist": "Deer Tick",
 			"year": "2009",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2920,10 +1880,6 @@
 			"artist": "The Walkmen",
 			"year": "2010",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2931,10 +1887,6 @@
 			"artist": "Deer Tick",
 			"year": "2010",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2942,10 +1894,6 @@
 			"artist": "Deer Tick",
 			"year": "2011",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2953,10 +1901,6 @@
 			"artist": "Bon Iver",
 			"year": "2011",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2964,10 +1908,6 @@
 			"artist": "Dirty Projectors + Bjork",
 			"year": "2011",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2975,10 +1915,6 @@
 			"artist": "Deer Tick",
 			"year": "2011",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2986,10 +1922,6 @@
 			"artist": "Middle Brother",
 			"year": "2011",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -2997,10 +1929,6 @@
 			"artist": "Bobby Womack",
 			"year": "2012",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3008,10 +1936,6 @@
 			"artist": "Taylor Swift",
 			"year": "2012",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3019,10 +1943,6 @@
 			"artist": "JD McPherson",
 			"year": "2012",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3030,10 +1950,6 @@
 			"artist": "Taylor Swift",
 			"year": "2012",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3041,10 +1957,6 @@
 			"artist": "Alabama Shakes",
 			"year": "2012",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3052,10 +1964,6 @@
 			"artist": "Lord Huron",
 			"year": "2012",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3063,10 +1971,6 @@
 			"artist": "Phosphorescent",
 			"year": "2013",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3074,10 +1978,6 @@
 			"artist": "Shovels & Rope",
 			"year": "2013",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3085,10 +1985,6 @@
 			"artist": "Deer Tick",
 			"year": "2013",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3096,10 +1992,6 @@
 			"artist": "The Brooklyn Attractors",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3107,10 +1999,6 @@
 			"artist": "Taylor Swift",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3118,10 +2006,6 @@
 			"artist": "Protomartyr",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3129,10 +2013,6 @@
 			"artist": "Taylor Swift",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3140,10 +2020,6 @@
 			"artist": "Various Artists",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3151,10 +2027,6 @@
 			"artist": "TV On The Radio",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3162,10 +2034,6 @@
 			"artist": "Jack White",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3173,10 +2041,6 @@
 			"artist": "The War on Drugs",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3184,10 +2048,6 @@
 			"artist": "Various Artists",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3195,10 +2055,6 @@
 			"artist": "C.W. Stoneking",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3206,10 +2062,6 @@
 			"artist": "Mac Demarco",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3217,10 +2069,6 @@
 			"artist": "Hamilton Leithauser",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3228,10 +2076,6 @@
 			"artist": "Hurray for the Riff Raff",
 			"year": "2014",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3239,10 +2083,6 @@
 			"artist": "Diamond Rugs",
 			"year": "2015",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3250,10 +2090,6 @@
 			"artist": "Phosphorescent",
 			"year": "2015",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3261,10 +2097,6 @@
 			"artist": "Charlie Parr",
 			"year": "2015",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3272,10 +2104,6 @@
 			"artist": "Alabama Shakes",
 			"year": "2015",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3283,10 +2111,6 @@
 			"artist": "Twenty-One Pilots",
 			"year": "2015",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3294,10 +2118,6 @@
 			"artist": "Hamilton Leithauser & Paul Maroon",
 			"year": "2015",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3305,10 +2125,6 @@
 			"artist": "Built to Spill",
 			"year": "2015",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3316,10 +2132,6 @@
 			"artist": "Kurt Vile",
 			"year": "2015",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3327,10 +2139,6 @@
 			"artist": "Lord Huron",
 			"year": "2015",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3338,10 +2146,6 @@
 			"artist": "Beirut",
 			"year": "2015",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3349,10 +2153,6 @@
 			"artist": "Langhorne Slim & The Law",
 			"year": "2015",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3360,10 +2160,6 @@
 			"artist": "Father John Misty",
 			"year": "2015",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3371,10 +2167,6 @@
 			"artist": "L.A. Salami",
 			"year": "2016",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3382,10 +2174,6 @@
 			"artist": "Childish Gambino",
 			"year": "2016",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3393,10 +2181,6 @@
 			"artist": "Kevin Morby",
 			"year": "2016",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3404,10 +2188,6 @@
 			"artist": "Jack White",
 			"year": "2016",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3415,10 +2195,6 @@
 			"artist": "Thao & The Get Down Stay Down",
 			"year": "2016",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3426,10 +2202,6 @@
 			"artist": "Taj Mahal",
 			"year": "2016",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3437,10 +2209,6 @@
 			"artist": "Hamilton Leithauser + Rostam",
 			"year": "2016",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3448,10 +2216,6 @@
 			"artist": "Kevin Morby",
 			"year": "2016",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3459,10 +2223,6 @@
 			"artist": "Charles Bradley",
 			"year": "2016",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3470,10 +2230,6 @@
 			"artist": "JD McPherson",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3481,10 +2237,6 @@
 			"artist": "Ed Sheeran",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3492,10 +2244,6 @@
 			"artist": "Charlie Parr",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3503,10 +2251,6 @@
 			"artist": "Various Artists",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3514,10 +2258,6 @@
 			"artist": "Caamp",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3525,10 +2265,6 @@
 			"artist": "Uri Caine, Christian McBride, Ahmir Thompson DJ Logic",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3536,10 +2272,6 @@
 			"artist": "Father John Misty",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3547,10 +2279,6 @@
 			"artist": "John Prine and Friends",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3558,10 +2286,6 @@
 			"artist": "The Wild Reeds",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3569,10 +2293,6 @@
 			"artist": "Lukas Nelson & Promise of the Real",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3580,10 +2300,6 @@
 			"artist": "Nicole Atkins",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3591,10 +2307,6 @@
 			"artist": "Langhorne Slim",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3602,10 +2314,6 @@
 			"artist": "Antibalas",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3613,10 +2321,6 @@
 			"album": "Folksinger Vol. 2",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3624,10 +2328,6 @@
 			"artist": "Fleet Foxes",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3635,10 +2335,6 @@
 			"artist": "Hamilton Leithauser + Rostam",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3646,10 +2342,6 @@
 			"artist": "Spoon",
 			"year": "2017",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3657,10 +2349,6 @@
 			"artist": "Kurt Vile",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3668,10 +2356,6 @@
 			"artist": "Dirty Projectors",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3679,10 +2363,6 @@
 			"artist": "Courtney Barnett",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3690,10 +2370,6 @@
 			"artist": "Built to Spill",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3701,10 +2377,6 @@
 			"artist": "Jack White",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3712,10 +2384,6 @@
 			"artist": "Cochemea",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3723,10 +2391,6 @@
 			"artist": "Father John Misty",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3734,10 +2398,6 @@
 			"artist": "The Nude Party",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3745,10 +2405,6 @@
 			"artist": "Various Artists",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3756,10 +2412,6 @@
 			"artist": "Liz Cooper and the Stampede",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3767,10 +2419,6 @@
 			"artist": "Tune-Yards",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3778,10 +2426,6 @@
 			"artist": "Caamp",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3789,10 +2433,6 @@
 			"artist": "Charley Crockett",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3800,10 +2440,6 @@
 			"artist": "Ruby Velle & the Soulphonics",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3811,10 +2447,6 @@
 			"artist": "Father John Misty",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3822,10 +2454,6 @@
 			"artist": "Khruangbin",
 			"year": "2018",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3833,10 +2461,6 @@
 			"artist": "Andrew Bird",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3844,10 +2468,6 @@
 			"album": "Doom Country",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3855,10 +2475,6 @@
 			"artist": "Caamp",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3866,10 +2482,6 @@
 			"artist": "Illiterate Light",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3877,10 +2489,6 @@
 			"artist": "Charles Bradley",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3888,10 +2496,6 @@
 			"artist": "Deer Tick",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3899,10 +2503,6 @@
 			"artist": "Various Artists",
 			"year": "1994",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3910,10 +2510,6 @@
 			"artist": "Nilüfer Yanya",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3921,10 +2517,6 @@
 			"artist": "Sleater-Kinney",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3932,10 +2524,6 @@
 			"artist": "Kevin Morby",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3943,10 +2531,6 @@
 			"artist": "The Raconteurs",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3954,10 +2538,6 @@
 			"artist": "Lukas Nelson & Promise of the Real",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3965,10 +2545,6 @@
 			"artist": "Oruã",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3976,10 +2552,6 @@
 			"artist": "Various Artists",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3987,10 +2559,6 @@
 			"artist": "Black Pumas",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -3998,10 +2566,6 @@
 			"artist": "Hamilton Leithauser",
 			"year": "2019",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4009,10 +2573,6 @@
 			"artist": "Hamilton Leithauser",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4020,10 +2580,6 @@
 			"artist": "The Budos Band",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4031,10 +2587,6 @@
 			"artist": "Black Pumas",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4042,10 +2594,6 @@
 			"artist": "Jeff Parker & The New Breed",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4053,10 +2601,6 @@
 			"artist": "U.S. Girls",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4064,10 +2608,6 @@
 			"artist": "Thao & The Get Down Stay Down",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4075,10 +2615,6 @@
 			"artist": "Sharon Jones & The Dap Kings",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4086,10 +2622,6 @@
 			"artist": "Tré Burt",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4097,10 +2629,6 @@
 			"artist": "Kevin Morby",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4108,10 +2636,6 @@
 			"artist": "Deer Tick",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4119,10 +2643,6 @@
 			"artist": "Nicole Atkins",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4130,10 +2650,6 @@
 			"artist": "Taylor Swift",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4141,10 +2657,6 @@
 			"artist": "Taylor Swift",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4152,10 +2664,6 @@
 			"artist": "Khruangbin",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4163,10 +2671,6 @@
 			"artist": "Khruangbin",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4174,10 +2678,6 @@
 			"artist": "Khruangbin & Leon Bridges",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4185,10 +2685,6 @@
 			"artist": "Kurt Vile",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4196,10 +2692,6 @@
 			"artist": "Langhorne Slim",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4207,10 +2699,6 @@
 			"artist": "Widespread Panic",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4218,10 +2706,6 @@
 			"artist": "Current Joys",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4229,10 +2713,6 @@
 			"artist": "Various Artists",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4240,10 +2720,6 @@
 			"artist": "Izzy Heltai",
 			"year": "2020",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4251,10 +2727,6 @@
 			"artist": "Cochemea",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4262,10 +2734,6 @@
 			"artist": "Kevin Morby",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4273,10 +2741,6 @@
 			"artist": "The Black Keys",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4284,10 +2748,6 @@
 			"artist": "Nathaniel Rateliff",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4295,10 +2755,6 @@
 			"artist": "Menahan Street Band",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4306,10 +2762,6 @@
 			"artist": "Jack White",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4317,10 +2769,6 @@
 			"artist": "Hermanos Gutierrez",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4328,10 +2776,6 @@
 			"artist": "Tré Burt",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4339,10 +2783,6 @@
 			"artist": "Hiss Golden Messenger",
 			"year": "2021",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4350,10 +2790,6 @@
 			"artist": "David Bowie",
 			"year": "2022",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4361,10 +2797,6 @@
 			"artist": "Charley Crockett",
 			"year": "2022",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4372,10 +2804,6 @@
 			"artist": "Kevin Morby",
 			"year": "2022",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4383,10 +2811,6 @@
 			"artist": "Built to Spill",
 			"year": "2022",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4394,10 +2818,6 @@
 			"artist": "Khruangbin & Leon Bridges",
 			"year": "2022",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4405,10 +2825,6 @@
 			"artist": "St. Paul & The Broken Bones",
 			"year": "2022",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4416,10 +2832,6 @@
 			"artist": "Father John Misty",
 			"year": "2022",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4427,10 +2839,6 @@
 			"artist": "Hermanos Gutierrez",
 			"year": "2022",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4438,10 +2846,6 @@
 			"artist": "Khruangbin & Nubya Garcia",
 			"year": "2022",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4449,10 +2853,6 @@
 			"album": "Not Tight",
 			"year": "2022",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4460,10 +2860,6 @@
 			"artist": "Illiterate Light",
 			"year": "2023",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4471,10 +2867,6 @@
 			"artist": "Noah Kahan",
 			"year": "2023",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4482,10 +2874,6 @@
 			"artist": "Khruangbin & Friends",
 			"year": "2023",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4493,10 +2881,6 @@
 			"artist": "Black Pumas",
 			"year": "2023",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4504,10 +2888,6 @@
 			"album": "Little Sun",
 			"year": "2024",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4515,10 +2895,6 @@
 			"artist": "Glitterfox",
 			"year": "2024",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4526,10 +2902,6 @@
 			"artist": "The Black Keys",
 			"year": "2024",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4537,10 +2909,6 @@
 			"artist": "Taylor Swift",
 			"year": "2024",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -4548,10 +2916,6 @@
 			"artist": "Friko",
 			"year": "2024",
 			"mbidJson": 0,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		}
 	]
