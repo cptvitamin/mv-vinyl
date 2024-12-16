@@ -5,7 +5,10 @@
 			"artist": "Huddie Ledbetter",
 			"year": "1943",
 			"mbidJson": 6,
-			"art": "http://coverartarchive.org/release/9be1f819-d127-4410-a18b-f05c0597fdf8/37928797929-500.jpg",
+			"art": [
+				"http://coverartarchive.org/release/9be1f819-d127-4410-a18b-f05c0597fdf8/37928797929-500.jpg",
+				null
+			],
 			"mbid": "9be1f819-d127-4410-a18b-f05c0597fdf8",
 			"thumbnail": "http://coverartarchive.org/release/9be1f819-d127-4410-a18b-f05c0597fdf8/37928797929-250.jpg",
 			"mbJson": 0
@@ -17,7 +20,10 @@
 			"mbid": "12d9211c-8e4e-46e1-b84f-bdf330707256",
 			"mbidJson": 40,
 			"thumbnail": "http://coverartarchive.org/release/12d9211c-8e4e-46e1-b84f-bdf330707256/16553915780-250.jpg",
-			"art": "http://coverartarchive.org/release/12d9211c-8e4e-46e1-b84f-bdf330707256/16553915780-500.jpg",
+			"art": [
+				"http://coverartarchive.org/release/12d9211c-8e4e-46e1-b84f-bdf330707256/16553915780-500.jpg",
+				null
+			],
 			"mbJson": 0
 		},
 		{
@@ -25,7 +31,7 @@
 			"artist": "Serge Gainsbourg",
 			"year": "1958",
 			"mbidJson": 1,
-			"mbJson": 9
+			"mbJson": 10
 		},
 		{
 			"album": "Things are Getting Better",
@@ -47,7 +53,10 @@
 			"year": "1958",
 			"mbid": "5160292d-d90f-4aa2-a6c7-65c477925c19",
 			"mbidJson": 4,
-			"art": "http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-500.jpg",
+			"art": [
+				"http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-500.jpg",
+				null
+			],
 			"thumbnail": "http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-250.jpg",
 			"mbJson": 0
 		},
@@ -57,7 +66,10 @@
 			"year": "1958",
 			"mbid": "12c3ef02-0b5d-3350-968c-0af67a329ae0",
 			"mbidJson": 1,
-			"art": "http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-500.jpg",
+			"art": [
+				"http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-500.jpg",
+				null
+			],
 			"thumbnail": "http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-250.jpg",
 			"mbJson": 0
 		},
@@ -67,7 +79,10 @@
 			"year": "1959",
 			"mbid": "411a7bd1-86ad-3c63-84be-b7cab350d9b8",
 			"mbidJson": 1,
-			"art": "http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-500.jpg",
+			"art": [
+				"http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-500.jpg",
+				null
+			],
 			"thumbnail": "http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-250.jpg",
 			"mbJson": 0
 		},
@@ -84,7 +99,10 @@
 			"year": "1959",
 			"mbid": "5ba46ef5-af26-48d0-a07b-6ea438425412",
 			"mbidJson": 1,
-			"art": "http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-500.jpg",
+			"art": [
+				"http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-500.jpg",
+				null
+			],
 			"thumbnail": "http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-250.jpg",
 			"mbJson": 0
 		},
@@ -101,7 +119,10 @@
 			"year": "1960",
 			"mbid": "4add6f2e-10ee-4dbb-8ebc-36b41667e954",
 			"mbidJson": 1,
-			"art": "https://coverartarchive.org/release/4add6f2e-10ee-4dbb-8ebc-36b41667e954/38647358468-500.jpg",
+			"art": [
+				"https://coverartarchive.org/release/4add6f2e-10ee-4dbb-8ebc-36b41667e954/38647358468-500.jpg",
+				null
+			],
 			"thumbnail": "https://coverartarchive.org/release/4add6f2e-10ee-4dbb-8ebc-36b41667e954/38647358468-250.jpg",
 			"mbJson": 0
 		},
@@ -111,7 +132,10 @@
 			"year": "1960",
 			"mbid": "78d472d6-322d-4e50-a88c-617946e28d37",
 			"mbidJson": 1,
-			"art": "http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-500.jpg",
+			"art": [
+				"http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-500.jpg",
+				null
+			],
 			"thumbnail": "http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-250.jpg",
 			"mbJson": 0
 		},
@@ -135,7 +159,10 @@
 			"year": "1962",
 			"mbid": "73780432-8e48-4e62-acec-53c26798c730",
 			"mbidJson": 1,
-			"art": "http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-500.jpg",
+			"art": [
+				"http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-500.jpg",
+				null
+			],
 			"thumbnail": "http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-250.jpg",
 			"mbJson": 0
 		},
@@ -145,7 +172,10 @@
 			"year": "1962",
 			"mbid": "a698a3ed-5244-4367-81aa-3a891388b4f0",
 			"mbidJson": 1,
-			"art": "http://coverartarchive.org/release/a698a3ed-5244-4367-81aa-3a891388b4f0/15916573855-500.jpg",
+			"art": [
+				"http://coverartarchive.org/release/a698a3ed-5244-4367-81aa-3a891388b4f0/15916573855-500.jpg",
+				null
+			],
 			"thumbnail": "http://coverartarchive.org/release/a698a3ed-5244-4367-81aa-3a891388b4f0/15916573855-250.jpg",
 			"mbJson": 0
 		},
@@ -155,7 +185,10 @@
 			"year": "1963",
 			"mbid": "9a8df718-b441-37d5-b14e-060ef5052211",
 			"mbidJson": 1,
-			"art": "http://coverartarchive.org/release/9a8df718-b441-37d5-b14e-060ef5052211/2401609661-500.jpg",
+			"art": [
+				"http://coverartarchive.org/release/9a8df718-b441-37d5-b14e-060ef5052211/2401609661-500.jpg",
+				null
+			],
 			"thumbnail": "http://coverartarchive.org/release/9a8df718-b441-37d5-b14e-060ef5052211/2401609661-250.jpg",
 			"mbJson": 0
 		},
@@ -172,7 +205,10 @@
 			"year": "1964",
 			"mbid": "70d13ec1-e731-3775-b70f-c1a2fb416828",
 			"mbidJson": 1,
-			"art": "http://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/8878798092-500.jpg",
+			"art": [
+				"http://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/8878798092-500.jpg",
+				null
+			],
 			"mbJson": 0,
 			"thumbnail": "http://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/8878798092-250.jpg"
 		},
