@@ -40,17 +40,21 @@
 			"album": "Things are Getting Better",
 			"artist": "Cannonball Adderley with Milt Jackson",
 			"year": "1958",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 7,
-			"mbid": "814be108-b3cb-3aec-9dea-a7fbafa89255"
+			"mbid": "814be108-b3cb-3aec-9dea-a7fbafa89255",
+			"thumbnail": "http://coverartarchive.org/release/814be108-b3cb-3aec-9dea-a7fbafa89255/4653945415-250.jpg",
+			"art": "http://coverartarchive.org/release/814be108-b3cb-3aec-9dea-a7fbafa89255/4653945415-500.jpg"
 		},
 		{
 			"album": "Porgy and Bess",
 			"artist": "Miles Davis Orchestra under the direction of Gil Evans",
 			"year": "1958",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 1,
-			"mbid": "560672ad-eaed-4a51-8e9d-cdce56ac49b2"
+			"mbid": "560672ad-eaed-4a51-8e9d-cdce56ac49b2",
+			"thumbnail": "http://coverartarchive.org/release/560672ad-eaed-4a51-8e9d-cdce56ac49b2/13528573039-250.jpg",
+			"art": "http://coverartarchive.org/release/560672ad-eaed-4a51-8e9d-cdce56ac49b2/13528573039-500.jpg"
 		},
 		{
 			"album": "At the Pershing",
@@ -82,9 +86,11 @@
 			"album": "Things are Swingin'",
 			"artist": "Peggy Lee",
 			"year": "1958",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "5654ae90-ab68-4900-a1af-5f7cef9297f9"
+			"mbid": "5654ae90-ab68-4900-a1af-5f7cef9297f9",
+			"thumbnail": "http://coverartarchive.org/release/5654ae90-ab68-4900-a1af-5f7cef9297f9/29312401744-250.jpg",
+			"art": "http://coverartarchive.org/release/5654ae90-ab68-4900-a1af-5f7cef9297f9/29312401744-500.jpg"
 		},
 		{
 			"album": "Time Out",
@@ -116,9 +122,11 @@
 			"album": "Everyday I Have the Blues",
 			"artist": "Joe Williams, Count Basie and his Orchestra",
 			"year": "1959",
-			"mbidJson": 2,
+			"mbidJson": 3,
 			"mbJson": 0,
-			"mbid": "de2054c0-0882-4b1e-8ecf-0bfb8434a03f"
+			"mbid": "de2054c0-0882-4b1e-8ecf-0bfb8434a03f",
+			"thumbnail": "https://coverartarchive.org/release/de2054c0-0882-4b1e-8ecf-0bfb8434a03f/5530877326-250.jpg",
+			"art": "https://coverartarchive.org/release/de2054c0-0882-4b1e-8ecf-0bfb8434a03f/5530877326-500.jpg"
 		},
 		{
 			"album": "Encore of Golden Hits",
@@ -150,9 +158,11 @@
 			"album": "King of the Delta Blues Singers",
 			"artist": "Robert Johnson",
 			"year": "1961",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "fd4b02c2-a8dc-4bae-8d41-3953c5e9ae45"
+			"mbid": "fd4b02c2-a8dc-4bae-8d41-3953c5e9ae45",
+			"thumbnail": "http://coverartarchive.org/release/fd4b02c2-a8dc-4bae-8d41-3953c5e9ae45/16117941055-250.jpg",
+			"art": "http://coverartarchive.org/release/fd4b02c2-a8dc-4bae-8d41-3953c5e9ae45/16117941055-500.jpg"
 		},
 		{
 			"album": "Green Onions",
