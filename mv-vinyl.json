@@ -524,7 +524,8 @@
 			"artist": "Taj Mahal",
 			"year": "1969",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "5ad57b19-c9be-4609-b394-cf479308dac7"
 		},
 		{
 			"artist": "Frank Zappa",
