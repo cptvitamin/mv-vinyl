@@ -179,10 +179,6 @@
 			"artist": "John Coltrane Quartet",
 			"year": "1962",
 			"mbidJson": 1,
-			"art": [
-				null,
-				null
-			],
 			"mbJson": 0
 		},
 		{
@@ -215,9 +211,11 @@
 			"album": "Both Directions at Once The Lost Album",
 			"artist": "John Coltrane",
 			"year": "1963",
-			"mbidJson": 3,
+			"mbidJson": 4,
 			"mbJson": 0,
-			"mbid": "7742180f-3313-4bd1-a38b-f6b75d2f7d33"
+			"mbid": "7742180f-3313-4bd1-a38b-f6b75d2f7d33",
+			"thumbnail": "http://coverartarchive.org/release/7742180f-3313-4bd1-a38b-f6b75d2f7d33/20334697147-250.jpg",
+			"art": "http://coverartarchive.org/release/7742180f-3313-4bd1-a38b-f6b75d2f7d33/20334697147-500.jpg"
 		},
 		{
 			"artist": "Charles Mingus",
@@ -236,25 +234,31 @@
 			"album": "12 X 5",
 			"artist": "The Rolling Stones",
 			"year": "1964",
-			"mbidJson": 2,
+			"mbidJson": 3,
 			"mbJson": 0,
-			"mbid": "043575ed-a3a1-4a9e-be70-073901966207"
+			"mbid": "043575ed-a3a1-4a9e-be70-073901966207",
+			"thumbnail": "http://coverartarchive.org/release/043575ed-a3a1-4a9e-be70-073901966207/16848747953-250.jpg",
+			"art": "http://coverartarchive.org/release/043575ed-a3a1-4a9e-be70-073901966207/16848747953-500.jpg"
 		},
 		{
 			"album": "Bringing It All Back Home",
 			"artist": "Bob Dylan",
 			"year": "1965",
-			"mbidJson": 1,
+			"mbidJson": 2,
 			"mbJson": 0,
-			"mbid": "67e7ab93-d5c1-442f-b8c0-dbfad52e2d34"
+			"mbid": "67e7ab93-d5c1-442f-b8c0-dbfad52e2d34",
+			"thumbnail": "http://coverartarchive.org/release/67e7ab93-d5c1-442f-b8c0-dbfad52e2d34/13703123875-250.jpg",
+			"art": "http://coverartarchive.org/release/67e7ab93-d5c1-442f-b8c0-dbfad52e2d34/13703123875-500.jpg"
 		},
 		{
 			"album": "The Best of Mississippi John Hurt",
 			"artist": "Mississippi John Hurt",
 			"year": "1965",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "d11fea48-867f-470d-8e5a-98d58a175e78"
+			"mbid": "d11fea48-867f-470d-8e5a-98d58a175e78",
+			"thumbnail": "http://coverartarchive.org/release/d11fea48-867f-470d-8e5a-98d58a175e78/6106348331-250.jpg",
+			"art": "http://coverartarchive.org/release/d11fea48-867f-470d-8e5a-98d58a175e78/6106348331-500.jpg"
 		},
 		{
 			"album": "Highway 61 Revisited",
