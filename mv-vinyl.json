@@ -380,7 +380,8 @@
 			"artist": "The Beatles",
 			"year": "1967",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "26d5e76b-1640-3883-887b-507e3a287116"
 		},
 		{
 			"album": "Sorcerer",
