@@ -436,7 +436,8 @@
 			"artist": "Taj Mahal",
 			"year": "1968",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "0047393a-1ce9-32c0-8af5-1a378c88b551"
 		},
 		{
 			"album": "Action!",
