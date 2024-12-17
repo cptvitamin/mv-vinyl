@@ -492,7 +492,8 @@
 			"artist": "Jimi Hendrix",
 			"year": "1969",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "88492aee-b55a-4bd3-a5ac-b34142394a2f"
 		},
 		{
 			"album": "Let it Bleed",
