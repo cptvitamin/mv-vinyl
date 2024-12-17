@@ -30,9 +30,11 @@
 			"album": "Du Jazz dans le ravin",
 			"artist": "Serge Gainsbourg",
 			"year": "1958",
-			"mbidJson": 2,
+			"mbidJson": 3,
 			"mbJson": 10,
-			"mbid": "976dbda1-c41e-4515-a31a-f5c153b3c6bf"
+			"mbid": "976dbda1-c41e-4515-a31a-f5c153b3c6bf",
+			"thumbnail": "http://coverartarchive.org/release/976dbda1-c41e-4515-a31a-f5c153b3c6bf/1158210516-250.jpg",
+			"art": "http://coverartarchive.org/release/976dbda1-c41e-4515-a31a-f5c153b3c6bf/1158210516-500.jpg"
 		},
 		{
 			"album": "Things are Getting Better",
