@@ -500,7 +500,8 @@
 			"artist": "Rolling Stones",
 			"year": "1969",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "739dce81-ed70-4ebc-8ae5-607f1fbcebf6"
 		},
 		{
 			"album": "Aoxomoxoa",
