@@ -355,175 +355,217 @@
 			"album": "The Soul of a Bell",
 			"artist": "William Bell",
 			"year": "1967",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "cd2ae654-6aa7-4322-a020-61890c4f6255"
+			"mbid": "cd2ae654-6aa7-4322-a020-61890c4f6255",
+			"thumbnail": "http://coverartarchive.org/release/cd2ae654-6aa7-4322-a020-61890c4f6255/16546405903-250.jpg",
+			"art": "http://coverartarchive.org/release/cd2ae654-6aa7-4322-a020-61890c4f6255/16546405903-500.jpg"
 		},
 		{
 			"album": "Hip Hug-Her",
 			"artist": "Booker T. & the M.G.s",
 			"year": "1967",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "7c66a11a-17e7-47d4-9cac-624b1f0c14a6"
+			"mbid": "7c66a11a-17e7-47d4-9cac-624b1f0c14a6",
+			"thumbnail": "http://coverartarchive.org/release/7c66a11a-17e7-47d4-9cac-624b1f0c14a6/23038293695-250.jpg",
+			"art": "http://coverartarchive.org/release/7c66a11a-17e7-47d4-9cac-624b1f0c14a6/23038293695-500.jpg"
 		},
 		{
 			"album": "I Never Loved a Man the Way I Love You",
 			"artist": "Aretha Franklin",
 			"year": "1967",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "4b43b2a7-2cab-4f87-9a7e-dfc0913c39ab"
+			"mbid": "4b43b2a7-2cab-4f87-9a7e-dfc0913c39ab",
+			"thumbnail": "http://coverartarchive.org/release/4b43b2a7-2cab-4f87-9a7e-dfc0913c39ab/9245863212-250.jpg",
+			"art": "http://coverartarchive.org/release/4b43b2a7-2cab-4f87-9a7e-dfc0913c39ab/9245863212-500.jpg"
 		},
 		{
 			"album": "Sgt. Peppers Lonely Hearts Club Band",
 			"artist": "The Beatles",
 			"year": "1967",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "26d5e76b-1640-3883-887b-507e3a287116"
+			"mbid": "26d5e76b-1640-3883-887b-507e3a287116",
+			"thumbnail": "http://coverartarchive.org/release/26d5e76b-1640-3883-887b-507e3a287116/29715781347-250.jpg",
+			"art": "http://coverartarchive.org/release/26d5e76b-1640-3883-887b-507e3a287116/29715781347-500.jpg"
 		},
 		{
 			"album": "Sorcerer",
 			"artist": "Miles Davis",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
 			"year": "1967",
-			"mbid": "136f81ef-0481-4967-8fae-4668b4badfbe"
+			"mbid": "136f81ef-0481-4967-8fae-4668b4badfbe",
+			"thumbnail": "http://coverartarchive.org/release/136f81ef-0481-4967-8fae-4668b4badfbe/18691546171-250.jpg",
+			"art": "http://coverartarchive.org/release/136f81ef-0481-4967-8fae-4668b4badfbe/18691546171-500.jpg"
 		},
 		{
 			"artist": "Nina Simone",
 			"album": "Nina Simone Sings The Blues",
 			"year": "1967",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "188b2fcc-a505-4fbc-8cc6-8621256929ab"
+			"mbid": "188b2fcc-a505-4fbc-8cc6-8621256929ab",
+			"thumbnail": "http://coverartarchive.org/release/188b2fcc-a505-4fbc-8cc6-8621256929ab/20837457181-250.jpg",
+			"art": "http://coverartarchive.org/release/188b2fcc-a505-4fbc-8cc6-8621256929ab/20837457181-500.jpg"
 		},
 		{
 			"album": "For the Sake of the Song",
 			"artist": "Townes Van Zandt",
 			"year": "1968",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "0500c425-43b8-3913-bcb5-e4855a11263f"
+			"mbid": "0500c425-43b8-3913-bcb5-e4855a11263f",
+			"thumbnail": "https://coverartarchive.org/release/0500c425-43b8-3913-bcb5-e4855a11263f/18741456192-250.jpg",
+			"art": "https://coverartarchive.org/release/0500c425-43b8-3913-bcb5-e4855a11263f/18741456192-500.jpg"
 		},
 		{
 			"album": "Electric Ladyland",
 			"artist": "Jimi Hendrix",
 			"year": "1968",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "dbb92a01-1021-4da7-a6d5-1efbd4dbd181"
+			"mbid": "dbb92a01-1021-4da7-a6d5-1efbd4dbd181",
+			"thumbnail": "http://coverartarchive.org/release/dbb92a01-1021-4da7-a6d5-1efbd4dbd181/37575941105-250.jpg",
+			"art": "http://coverartarchive.org/release/dbb92a01-1021-4da7-a6d5-1efbd4dbd181/37575941105-500.jpg"
 		},
 		{
 			"artist": "Traffic",
 			"album": "Traffic",
 			"year": "1968",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "5414db91-00db-3fb8-8fb6-4d1dc7299529"
+			"mbid": "5414db91-00db-3fb8-8fb6-4d1dc7299529",
+			"thumbnail": "http://coverartarchive.org/release/5414db91-00db-3fb8-8fb6-4d1dc7299529/21619640953-250.jpg",
+			"art": "http://coverartarchive.org/release/5414db91-00db-3fb8-8fb6-4d1dc7299529/21619640953-500.jpg"
 		},
 		{
 			"album": "Oriental Jazz",
 			"artist": "Lloyd Miller",
 			"year": "1968",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "a57a950d-4f73-45d8-9ed4-545c62015c8f"
+			"mbid": "a57a950d-4f73-45d8-9ed4-545c62015c8f",
+			"thumbnail": "http://coverartarchive.org/release/a57a950d-4f73-45d8-9ed4-545c62015c8f/27313527141-250.jpg",
+			"art": "http://coverartarchive.org/release/a57a950d-4f73-45d8-9ed4-545c62015c8f/27313527141-500.jpg"
 		},
 		{
 			"album": "Taj Mahal",
 			"artist": "Taj Mahal",
 			"year": "1968",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "0047393a-1ce9-32c0-8af5-1a378c88b551"
+			"mbid": "0047393a-1ce9-32c0-8af5-1a378c88b551",
+			"thumbnail": "http://coverartarchive.org/release/0047393a-1ce9-32c0-8af5-1a378c88b551/10046342990-250.jpg",
+			"art": "http://coverartarchive.org/release/0047393a-1ce9-32c0-8af5-1a378c88b551/10046342990-500.jpg"
 		},
 		{
 			"album": "Action!",
 			"artist": "Desmond Dekker and the Aces",
 			"year": "1968",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "519f359c-388e-4354-88c4-8894c62bada1"
+			"mbid": "519f359c-388e-4354-88c4-8894c62bada1",
+			"thumbnail": "http://coverartarchive.org/release/519f359c-388e-4354-88c4-8894c62bada1/33766083995-250.jpg",
+			"art": "http://coverartarchive.org/release/519f359c-388e-4354-88c4-8894c62bada1/33766083995-500.jpg"
 		},
 		{
 			"album": "Aretha Now",
 			"artist": "Aretha Franklin",
 			"year": "1968",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "f5ebf6cf-830a-4f3e-ba83-e6f7bbfd5fec"
+			"mbid": "f5ebf6cf-830a-4f3e-ba83-e6f7bbfd5fec",
+			"thumbnail": "http://coverartarchive.org/release/f5ebf6cf-830a-4f3e-ba83-e6f7bbfd5fec/10556248258-250.jpg",
+			"art": "http://coverartarchive.org/release/f5ebf6cf-830a-4f3e-ba83-e6f7bbfd5fec/10556248258-500.jpg"
 		},
 		{
 			"album": "To Russel, My Brother, Whom i Slept With",
 			"artist": "Bill Cosby",
 			"year": "1968",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "dc3c4031-5518-4981-8733-1b7dab55fbf2"
+			"mbid": "dc3c4031-5518-4981-8733-1b7dab55fbf2",
+			"thumbnail": "http://coverartarchive.org/release/dc3c4031-5518-4981-8733-1b7dab55fbf2/19490067960-250.jpg",
+			"art": "http://coverartarchive.org/release/dc3c4031-5518-4981-8733-1b7dab55fbf2/19490067960-500.jpg"
 		},
 		{
 			"album": "Everybody Knows this is Nowhere",
 			"artist": "Neil Young with Crazy Horse",
 			"year": "1969",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "41cbba2c-4e25-468d-8d8f-8a584d7fd701"
+			"mbid": "41cbba2c-4e25-468d-8d8f-8a584d7fd701",
+			"thumbnail": "http://coverartarchive.org/release/41cbba2c-4e25-468d-8d8f-8a584d7fd701/6187784066-250.jpg",
+			"art": "http://coverartarchive.org/release/41cbba2c-4e25-468d-8d8f-8a584d7fd701/6187784066-500.jpg"
 		},
 		{
 			"album": "Left My Blues In San Francisco",
 			"artist": "Buddy Guy",
 			"year": "1969",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "cf0ebf39-dcdd-4405-bca3-e910d406bc4f"
+			"mbid": "cf0ebf39-dcdd-4405-bca3-e910d406bc4f",
+			"thumbnail": "http://coverartarchive.org/release/cf0ebf39-dcdd-4405-bca3-e910d406bc4f/16078420486-250.jpg",
+			"art": "http://coverartarchive.org/release/cf0ebf39-dcdd-4405-bca3-e910d406bc4f/16078420486-500.jpg"
 		},
 		{
 			"album": "After the Rain",
 			"artist": "Muddy Waters",
 			"year": "1969",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "ece11094-6655-4ff8-aa94-5e9bf0d06468"
+			"mbid": "ece11094-6655-4ff8-aa94-5e9bf0d06468",
+			"thumbnail": "http://coverartarchive.org/release/ece11094-6655-4ff8-aa94-5e9bf0d06468/8120398891-250.jpg",
+			"art": "http://coverartarchive.org/release/ece11094-6655-4ff8-aa94-5e9bf0d06468/8120398891-500.jpg"
 		},
 		{
 			"album": "Smash Hits",
 			"artist": "Jimi Hendrix",
 			"year": "1969",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "88492aee-b55a-4bd3-a5ac-b34142394a2f"
+			"mbid": "88492aee-b55a-4bd3-a5ac-b34142394a2f",
+			"thumbnail": "http://coverartarchive.org/release/88492aee-b55a-4bd3-a5ac-b34142394a2f/8517691536-250.jpg",
+			"art": "http://coverartarchive.org/release/88492aee-b55a-4bd3-a5ac-b34142394a2f/8517691536-500.jpg"
 		},
 		{
 			"album": "Let it Bleed",
 			"artist": "Rolling Stones",
 			"year": "1969",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "739dce81-ed70-4ebc-8ae5-607f1fbcebf6"
+			"mbid": "739dce81-ed70-4ebc-8ae5-607f1fbcebf6",
+			"thumbnail": "http://coverartarchive.org/release/739dce81-ed70-4ebc-8ae5-607f1fbcebf6/31096071078-250.jpg",
+			"art": "http://coverartarchive.org/release/739dce81-ed70-4ebc-8ae5-607f1fbcebf6/31096071078-500.jpg"
 		},
 		{
 			"album": "Aoxomoxoa",
 			"artist": "Grateful Dead",
 			"year": "1969",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "0ae9310c-105b-4d8f-9231-3c2d2e79a93d"
+			"mbid": "0ae9310c-105b-4d8f-9231-3c2d2e79a93d",
+			"thumbnail": "http://coverartarchive.org/release/0ae9310c-105b-4d8f-9231-3c2d2e79a93d/33592800372-250.jpg",
+			"art": "http://coverartarchive.org/release/0ae9310c-105b-4d8f-9231-3c2d2e79a93d/33592800372-500.jpg"
 		},
 		{
 			"album": "De Ole Folks at Home",
 			"artist": "Taj Mahal",
 			"year": "1969",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "5ad57b19-c9be-4609-b394-cf479308dac7"
+			"mbid": "5ad57b19-c9be-4609-b394-cf479308dac7",
+			"thumbnail": "http://coverartarchive.org/release/5ad57b19-c9be-4609-b394-cf479308dac7/35613332032-250.jpg",
+			"art": "http://coverartarchive.org/release/5ad57b19-c9be-4609-b394-cf479308dac7/35613332032-500.jpg"
 		},
 		{
 			"album": "Giant Step",
 			"artist": "Taj Mahal",
 			"year": "1969",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
 			"mbid": "5ad57b19-c9be-4609-b394-cf479308dac7"
 		},
