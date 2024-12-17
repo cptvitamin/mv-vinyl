@@ -234,7 +234,8 @@
 			"artist": "Bob Dylan",
 			"year": "1965",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "67e7ab93-d5c1-442f-b8c0-dbfad52e2d34"
 		},
 		{
 			"album": "The Best of Mississippi John Hurt",
