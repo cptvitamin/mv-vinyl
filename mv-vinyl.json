@@ -331,14 +331,6 @@
 			"mbid": "9f4a06b3-37fd-4583-a16d-cab5f273c8bb"
 		},
 		{
-			"album": "Left My Blues In San Francisco",
-			"artist": "Buddy Guy",
-			"year": "1969",
-			"mbidJson": 0,
-			"mbJson": 0,
-			"mbid": "cf0ebf39-dcdd-4405-bca3-e910d406bc4f"
-		},
-		{
 			"album": "The Early Ray Charles",
 			"artist": "Ray Charles",
 			"year": "1967",
@@ -448,6 +440,14 @@
 			"year": "1969",
 			"mbidJson": 0,
 			"mbJson": 0
+		},
+		{
+			"album": "Left My Blues In San Francisco",
+			"artist": "Buddy Guy",
+			"year": "1969",
+			"mbidJson": 0,
+			"mbJson": 0,
+			"mbid": "cf0ebf39-dcdd-4405-bca3-e910d406bc4f"
 		},
 		{
 			"album": "After the Rain",
