@@ -264,7 +264,7 @@
 			"album": "Highway 61 Revisited",
 			"artist": "Bob Dylan",
 			"year": "1965",
-			"mbidJson": 1,
+			"mbidJson": 2,
 			"mbJson": 0,
 			"mbid": "263a8ba4-cbc2-4fbd-9aa3-1de457c717a1"
 		},
@@ -272,7 +272,7 @@
 			"album": "A Love Supreme",
 			"artist": "John Coltrane",
 			"year": "1965",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
 			"mbid": "77d06b99-117a-3ba3-8230-69361ad7be91"
 		},
@@ -280,7 +280,7 @@
 			"album": "True Story of Abner Jay",
 			"artist": "Abner Jay",
 			"year": "1965",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
 			"mbid": "8f9278a6-176e-476d-a101-9cf5fb190a40"
 		},
