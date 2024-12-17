@@ -385,9 +385,11 @@
 		},
 		{
 			"album": "Sorcerer",
-			"artist": "Miles Davis 1967",
+			"artist": "Miles Davis",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"year": "1967",
+			"mbid": "136f81ef-0481-4967-8fae-4668b4badfbe"
 		},
 		{
 			"artist": "Nina Simone",
