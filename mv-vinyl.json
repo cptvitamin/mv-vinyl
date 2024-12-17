@@ -94,9 +94,10 @@
 		{
 			"album": "Things are Swingin'",
 			"artist": "Peggy Lee",
-			"year": "1959",
+			"year": "1958",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "5654ae90-ab68-4900-a1af-5f7cef9297f9"
 		},
 		{
 			"album": "in San Francisco Live at the Jazz Workshop",
