@@ -567,7 +567,9 @@
 			"year": "1969",
 			"mbidJson": 2,
 			"mbJson": 0,
-			"mbid": "5ad57b19-c9be-4609-b394-cf479308dac7"
+			"mbid": "5ad57b19-c9be-4609-b394-cf479308dac7",
+			"thumbnail": "http://coverartarchive.org/release/5ad57b19-c9be-4609-b394-cf479308dac7/35613332032-250.jpg",
+			"art": "http://coverartarchive.org/release/5ad57b19-c9be-4609-b394-cf479308dac7/35613332032-500.jpg"
 		},
 		{
 			"artist": "Frank Zappa",
@@ -583,25 +585,31 @@
 			"album": "The Memphis Record",
 			"artist": "Elvis Presley",
 			"year": "1969",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "0a8c1f28-18a2-43ce-bf03-361372d8fde5"
+			"mbid": "0a8c1f28-18a2-43ce-bf03-361372d8fde5",
+			"thumbnail": "http://coverartarchive.org/release/0a8c1f28-18a2-43ce-bf03-361372d8fde5/35531273394-250.jpg",
+			"art": "http://coverartarchive.org/release/0a8c1f28-18a2-43ce-bf03-361372d8fde5/35531273394-500.jpg"
 		},
 		{
 			"album": "Nashville Skyline",
 			"artist": "Bob Dylan",
 			"year": "1969",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "33be9ca6-eb95-44bc-874b-41d8392c53ee"
+			"mbid": "33be9ca6-eb95-44bc-874b-41d8392c53ee",
+			"thumbnail": "http://coverartarchive.org/release/33be9ca6-eb95-44bc-874b-41d8392c53ee/10966419863-250.jpg",
+			"art": "http://coverartarchive.org/release/33be9ca6-eb95-44bc-874b-41d8392c53ee/10966419863-500.jpg"
 		},
 		{
 			"album": "At San Quentin",
 			"artist": "Johnny Cash",
 			"year": "1969",
-			"mbidJson": 1,
+			"mbidJson": 2,
 			"mbJson": 0,
-			"mbid": "04ecd025-212b-4c08-a83f-a9f1008a7fa1"
+			"mbid": "04ecd025-212b-4c08-a83f-a9f1008a7fa1",
+			"thumbnail": "http://coverartarchive.org/release/04ecd025-212b-4c08-a83f-a9f1008a7fa1/23403416869-250.jpg",
+			"art": "http://coverartarchive.org/release/04ecd025-212b-4c08-a83f-a9f1008a7fa1/23403416869-500.jpg"
 		},
 		{
 			"album": "The Best of Nina Simone",
