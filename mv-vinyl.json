@@ -151,7 +151,8 @@
 			"artist": "Robert Johnson",
 			"year": "1961",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "fd4b02c2-a8dc-4bae-8d41-3953c5e9ae45"
 		},
 		{
 			"album": "Green Onions",
