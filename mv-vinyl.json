@@ -412,7 +412,8 @@
 			"artist": "Jimi Hendrix",
 			"year": "1968",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "dbb92a01-1021-4da7-a6d5-1efbd4dbd181"
 		},
 		{
 			"artist": "Traffic",
