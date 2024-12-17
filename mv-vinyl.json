@@ -304,7 +304,8 @@
 			"artist": "Miles Davis",
 			"year": "1966",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "fc4c7684-3527-4e2c-b90d-8e29e421b7b2"
 		},
 		{
 			"album": "Between the Buttons",
