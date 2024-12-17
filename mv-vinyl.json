@@ -273,7 +273,8 @@
 			"artist": "John Coltrane",
 			"year": "1965",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "77d06b99-117a-3ba3-8230-69361ad7be91"
 		},
 		{
 			"album": "True Story of Abner Jay",
