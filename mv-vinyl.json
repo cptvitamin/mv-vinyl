@@ -548,7 +548,8 @@
 			"artist": "Bob Dylan",
 			"year": "1969",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "33be9ca6-eb95-44bc-874b-41d8392c53ee"
 		},
 		{
 			"album": "At San Quentin",
