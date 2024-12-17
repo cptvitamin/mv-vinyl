@@ -264,25 +264,31 @@
 			"album": "Highway 61 Revisited",
 			"artist": "Bob Dylan",
 			"year": "1965",
-			"mbidJson": 6,
+			"mbidJson": 7,
 			"mbJson": 0,
-			"mbid": "263a8ba4-cbc2-4fbd-9aa3-1de457c717a1"
+			"mbid": "263a8ba4-cbc2-4fbd-9aa3-1de457c717a1",
+			"thumbnail": "http://coverartarchive.org/release/263a8ba4-cbc2-4fbd-9aa3-1de457c717a1/11090135217-250.jpg",
+			"art": "http://coverartarchive.org/release/263a8ba4-cbc2-4fbd-9aa3-1de457c717a1/11090135217-500.jpg"
 		},
 		{
 			"album": "A Love Supreme",
 			"artist": "John Coltrane",
 			"year": "1965",
-			"mbidJson": 2,
+			"mbidJson": 3,
 			"mbJson": 0,
-			"mbid": "77d06b99-117a-3ba3-8230-69361ad7be91"
+			"mbid": "77d06b99-117a-3ba3-8230-69361ad7be91",
+			"thumbnail": "http://coverartarchive.org/release/77d06b99-117a-3ba3-8230-69361ad7be91/5164611493-250.jpg",
+			"art": "http://coverartarchive.org/release/77d06b99-117a-3ba3-8230-69361ad7be91/5164611493-500.jpg"
 		},
 		{
 			"album": "True Story of Abner Jay",
 			"artist": "Abner Jay",
 			"year": "1965",
-			"mbidJson": 1,
+			"mbidJson": 2,
 			"mbJson": 0,
-			"mbid": "8f9278a6-176e-476d-a101-9cf5fb190a40"
+			"mbid": "8f9278a6-176e-476d-a101-9cf5fb190a40",
+			"thumbnail": "http://coverartarchive.org/release/8f9278a6-176e-476d-a101-9cf5fb190a40/6609823781-250.jpg",
+			"art": "http://coverartarchive.org/release/8f9278a6-176e-476d-a101-9cf5fb190a40/6609823781-500.jpg"
 		},
 		{
 			"album": "Man Walked on the Moon",
@@ -295,25 +301,31 @@
 			"album": "Warm and Tender Soul",
 			"artist": "Percy Sledge",
 			"year": "1966",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "74616b40-4440-4fbb-8696-41272e6a09a8"
+			"mbid": "74616b40-4440-4fbb-8696-41272e6a09a8",
+			"thumbnail": "http://coverartarchive.org/release/74616b40-4440-4fbb-8696-41272e6a09a8/11483131603-250.jpg",
+			"art": "http://coverartarchive.org/release/74616b40-4440-4fbb-8696-41272e6a09a8/11483131603-500.jpg"
 		},
 		{
 			"album": "Four & More Recorded Live in Concert",
 			"artist": "Miles Davis",
 			"year": "1966",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "fc4c7684-3527-4e2c-b90d-8e29e421b7b2"
+			"mbid": "fc4c7684-3527-4e2c-b90d-8e29e421b7b2",
+			"thumbnail": "http://coverartarchive.org/release/fc4c7684-3527-4e2c-b90d-8e29e421b7b2/33896154895-250.jpg",
+			"art": "http://coverartarchive.org/release/fc4c7684-3527-4e2c-b90d-8e29e421b7b2/33896154895-500.jpg"
 		},
 		{
 			"album": "Between the Buttons",
 			"artist": "The Rolling Stones",
 			"year": "1967",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "638f6f31-cd4c-48b2-9e5e-8109d3b226f6"
+			"mbid": "638f6f31-cd4c-48b2-9e5e-8109d3b226f6",
+			"thumbnail": "http://coverartarchive.org/release/638f6f31-cd4c-48b2-9e5e-8109d3b226f6/18849765612-250.jpg",
+			"art": "http://coverartarchive.org/release/638f6f31-cd4c-48b2-9e5e-8109d3b226f6/18849765612-500.jpg"
 		},
 		{
 			"album": "The Best of Sonny & Cher",
@@ -326,9 +338,11 @@
 			"album": "The Best of the Lovin' Spoonful",
 			"artist": "Lovin' Spoonful",
 			"year": "1967",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "9f4a06b3-37fd-4583-a16d-cab5f273c8bb"
+			"mbid": "9f4a06b3-37fd-4583-a16d-cab5f273c8bb",
+			"thumbnail": "http://coverartarchive.org/release/9f4a06b3-37fd-4583-a16d-cab5f273c8bb/15930099186-250.jpg",
+			"art": "http://coverartarchive.org/release/9f4a06b3-37fd-4583-a16d-cab5f273c8bb/15930099186-500.jpg"
 		},
 		{
 			"album": "The Early Ray Charles",
