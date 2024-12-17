@@ -540,7 +540,8 @@
 			"artist": "Elvis Presley",
 			"year": "1969",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "0a8c1f28-18a2-43ce-bf03-361372d8fde5"
 		},
 		{
 			"album": "Nashville Skyline",
