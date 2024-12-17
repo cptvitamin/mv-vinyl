@@ -170,7 +170,9 @@
 			"year": "1962",
 			"mbidJson": 3,
 			"mbJson": 0,
-			"mbid": "73780432-8e48-4e62-acec-53c26798c730"
+			"mbid": "73780432-8e48-4e62-acec-53c26798c730",
+			"thumbnail": "http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-250.jpg",
+			"art": "http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-500.jpg"
 		},
 		{
 			"album": "Rare",
@@ -178,10 +180,9 @@
 			"year": "1962",
 			"mbidJson": 1,
 			"art": [
-				"http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-500.jpg",
+				null,
 				null
 			],
-			"thumbnail": "http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-250.jpg",
 			"mbJson": 0
 		},
 		{
