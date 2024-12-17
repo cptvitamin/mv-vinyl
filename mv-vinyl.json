@@ -460,7 +460,8 @@
 			"artist": "Bill Cosby",
 			"year": "1968",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "dc3c4031-5518-4981-8733-1b7dab55fbf2"
 		},
 		{
 			"album": "Everybody Knows this is Nowhere",
