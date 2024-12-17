@@ -79,6 +79,14 @@
 			"mbJson": 0
 		},
 		{
+			"album": "Things are Swingin'",
+			"artist": "Peggy Lee",
+			"year": "1958",
+			"mbidJson": 0,
+			"mbJson": 0,
+			"mbid": "5654ae90-ab68-4900-a1af-5f7cef9297f9"
+		},
+		{
 			"album": "Time Out",
 			"artist": "The Dave Brubeck Quartet",
 			"year": "1959",
@@ -90,14 +98,6 @@
 			],
 			"thumbnail": "http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-250.jpg",
 			"mbJson": 0
-		},
-		{
-			"album": "Things are Swingin'",
-			"artist": "Peggy Lee",
-			"year": "1958",
-			"mbidJson": 0,
-			"mbJson": 0,
-			"mbid": "5654ae90-ab68-4900-a1af-5f7cef9297f9"
 		},
 		{
 			"album": "in San Francisco Live at the Jazz Workshop",
