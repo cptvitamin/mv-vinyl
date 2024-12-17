@@ -565,7 +565,7 @@
 			"album": "Giant Step",
 			"artist": "Taj Mahal",
 			"year": "1969",
-			"mbidJson": 1,
+			"mbidJson": 2,
 			"mbJson": 0,
 			"mbid": "5ad57b19-c9be-4609-b394-cf479308dac7"
 		},
@@ -573,9 +573,11 @@
 			"artist": "Frank Zappa",
 			"album": "Hot Rats",
 			"year": "1969",
-			"mbidJson": 0,
+			"mbidJson": 1,
 			"mbJson": 0,
-			"mbid": "6327a725-8554-4900-a268-bdba3cb03169"
+			"mbid": "6327a725-8554-4900-a268-bdba3cb03169",
+			"thumbnail": "http://coverartarchive.org/release/6327a725-8554-4900-a268-bdba3cb03169/11263298625-250.jpg",
+			"art": "http://coverartarchive.org/release/6327a725-8554-4900-a268-bdba3cb03169/11263298625-500.jpg"
 		},
 		{
 			"album": "The Memphis Record",
