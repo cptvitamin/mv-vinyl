@@ -404,7 +404,8 @@
 			"artist": "Townes Van Zandt",
 			"year": "1968",
 			"mbidJson": 0,
-			"mbJson": 0
+			"mbJson": 0,
+			"mbid": "0500c425-43b8-3913-bcb5-e4855a11263f"
 		},
 		{
 			"album": "Electric Ladyland",
