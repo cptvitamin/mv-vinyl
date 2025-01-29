@@ -1,6 +1,10 @@
 {
 	"record": [
 		{
+			"album": "The Grand Wazoo",
+			"mbidJson": 0
+		},
+		{
 			"album": "Burnt Weeny Sandwich ",
 			"artist": "Frank Zappa and The Mothers of Invention",
 			"year": "1970",
