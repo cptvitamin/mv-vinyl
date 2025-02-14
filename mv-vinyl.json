@@ -970,6 +970,9 @@
 			"mbJson": 0
 		},
 		{
+			"mbidJson": 0
+		},
+		{
 			"album": "The Best of B.B. King",
 			"artist": "B.B. King",
 			"year": "1973",
